@@ -1,4 +1,5 @@
 # CausalCite : A Causal Formulation of Paper Citations 
+![Graph_CausalCite](https://github.com/causalNLP/causal-cite/assets/46553104/a1e2e1a6-2418-41bb-b472-6ef844f6a496)
 
 ### Introduction: 
 Evaluating the significance of a paper is pivotal yet challenging for the scientific community. While the citation count is the most commonly used proxy for this purpose, they are widely criticized for failing to accurately reflect a paper’s true impact. In this work, we propose a causal inference method, SYNMATCH, which adapts the traditional matching framework to high-dimensional text embeddings. Specifically, we encode each paper using the text embeddings by large language models, extract similar samples by cosine similarity, and synthesize a counterfactual sample by the weighted average of similar papers according to their similarity values.
@@ -29,3 +30,6 @@ python getCIIdata.py
 ```
 
 The output will be created as a folder named as PaperA's ID and it will contain all of its sampled Citation Paper Bs files. These can be used to calculate the TCI.
+
+
+
