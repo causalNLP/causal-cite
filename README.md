@@ -26,7 +26,7 @@ This will combine the relevant data from the 30 ```jsonl``` files into 1 single 
 3. Run the CausalCite Code
 Once all the Datasets are created, you can run the causal cite code by replacing the path variables.
 ```python
-python getCIIdata.py
+python getCIIdata.py --model_path /path/to/specter2 --citationData_path /path/to/fullCitationDataset.parquet.gzip --paperData_path /path/to/fullpapersdata.parquet.gzip --bm25Path /path/to/bm25_data --output_path /path/to/output --CandidatePool_path /path/to/candidate_pool --paperAid 3303339
 ```
 
 The output will be created as a folder named as PaperA's ID and it will contain all of its sampled Citation Paper Bs files. These can be used to calculate the TCI.
