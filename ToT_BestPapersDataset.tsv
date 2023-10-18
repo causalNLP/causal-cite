@@ -762,3 +762,94 @@ ICML	2017	Connected Subgraph Detection with Mirror Descent on SDPs	0	0
 ICML	2017	Doubly Accelerated Methods for Faster CCA and Generalized Eigendecomposition	0	0
 ICML	2017	Averaged-DQN: Variance Reduction and Stabilization for Deep Reinforcement Learning	0	0
 ICML	2017	Generalization and Equilibrium in Generative Adversarial Nets (GANs)	0	0
+EMNLP	2019	Specializing Word Embeddings (for Parsing) by Information Bottleneck	0	1
+EMNLP	2019	“Transforming” Delete, Retrieve, Generate Approach for Controlled Text Style Transfer	0	0
+EMNLP	2019	A Bayesian Approach for Sequence Tagging with Crowds	0	0
+EMNLP	2019	A Benchmark Dataset for Learning to Intervene in Online Hate Speech	0	0
+EMNLP	2019	A Boundary-aware Neural Model for Nested Named Entity Recognition	0	0
+EMNLP	2019	A Dataset of General-Purpose Rebuttal	0	0
+EMNLP	2018	Linguistically-Informed Self-Attention for Semantic Role Labeling	0	1
+EMNLP	2018	Character-level Chinese-English Translation through ASCII Encoding	0	0
+EMNLP	2018	Discourse-Related Language Contrasts in English-Croatian Human and Machine Translation	0	0
+EMNLP	2018	Beyond Weight Tying: Learning Joint Input-Output Embeddings for Neural Machine Translation	0	0
+EMNLP	2018	Attaining the Unattainable? Reassessing Claims of Human Parity in Neural Machine Translation	0	0
+EMNLP	2018	Neural Machine Translation into Language Varieties	0	0
+EMNLP	2017	Depression and Self-Harm Risk Assessment in Online Forums	0	1
+EMNLP	2017	Natural Language Does Not Emerge ‘Naturally’ in Multi-Agent Dialog	0	0
+EMNLP	2017	Zipporah: a Fast and Scalable Data Cleaning System for Noisy Web-Crawled Parallel Corpora	0	0
+EMNLP	2017	Charmanteau: Character Embedding Models For Portmanteau Creation	0	0
+EMNLP	2017	Analogs of Linguistic Structure in Deep Representations	0	0
+EMNLP	2017	Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints	0	1
+EMNLP	2017	Analogs of Linguistic Structure in Deep Representations	0	0
+EMNLP	2017	Adapting Sequence Models for Sentence Correction	0	0
+EMNLP	2017	Transition-Based Disfluency Detection using LSTMs	0	0
+EMNLP	2016	Global Neural CCG Parsing with Optimality Guarantees	0	1
+EMNLP	2016	POLY: Mining Relational Paraphrases from Multilingual Sentences	0	0
+EMNLP	2016	Nested Propositions in Open Information Extraction	0	0
+EMNLP	2016	Aspect Level Sentiment Classification with Deep Memory Network	0	0
+EMNLP	2016	Improving Information Extraction by Acquiring External Evidence with Reinforcement Learning	0	1
+EMNLP	2016	Discourse Parsing with Attention-based Hierarchical Neural Networks	0	0
+EMNLP	2016	Recursive Neural Conditional Random Fields for Aspect-based Sentiment Analysis	0	0
+EMNLP	2016	Extracting Aspect Specific Opinion Expressions	0	0
+EMNLP	2015	Semantically Conditioned LSTM-based Natural Language Generation for Spoken Dialogue Systems	0	1
+EMNLP	2015	Broad-coverage CCG Semantic Parsing with AMR	0	0
+EMNLP	2015	Script Induction as Language Modeling	0	0
+EMNLP	2015	Context-Dependent Knowledge Graph Embedding	0	0
+EMNLP	2015	"	Broad-coverage CCG Semantic Parsing with AMR"	0	1
+EMNLP	2015	Distributional vectors encode referential attributes	0	0
+EMNLP	2015	Dependency Graph-to-String Translation	0	0
+EMNLP	2015	Reordering Grammar Induction	0	0
+EMNLP	2014	Modeling Biological Processes for Reading Comprehension	0	1
+EMNLP	2014	Identifying Argumentative Discourse Structures in Persuasive Essays	0	0
+EMNLP	2014	A Constituent-Based Approach to Argument Labeling with Joint Inference in Discourse Parsing	0	0
+EMNLP	2014	Accurate Word Segmentation and POS Tagging for Japanese Microblogs: Corpus Annotation and Joint Modeling with Lexical Normalization	0	0
+EMNLP	2013	Breaking Out of Local Optima with Count Transforms and Model Recombination: A Study in Grammar Induction	0	1
+EMNLP	2013	A Multimodal LDA Model integrating Textual, Cognitive and Visual Modalities	0	0
+EMNLP	2013	A temporal model of text periodicities using Gaussian Processes	0	0
+EMNLP	2013	Assembling the Kazakh Language Corpus	0	0
+EMNLP	2013	Automatically Determining a Proper Length for Multi-Document Summarization: A Bayesian Nonparametric Approach	0	0
+NAACL 	2019	BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding	0	1
+NAACL 	2019	Benchmarking Hierarchical Script Knowledge	0	0
+NAACL 	2019	Beyond task success: A closer look at jointly learning to see, ask, and GuessWhat	0	0
+NAACL 	2019	Bidirectional Attentive Memory Networks for Question Answering over Knowledge Bases	0	0
+NAACL 	2019	BoolQ: Exploring the Surprising Difficulty of Natural Yes/No Questions	0	0
+NAACL 	2018	Deep Contextualized Word Representations	0	1
+NAACL 	2018	Label-Aware Double Transfer Learning for Cross-Specialty Medical Named Entity Recognition	0	0
+NAACL 	2018	Joint Bootstrapping Machines for High Confidence Relation Extraction	0	0
+NAACL 	2018	Improving Character-Based Decoding Using Target-Side Morphological Information for Neural Machine Translation	0	0
+NAACL 	2018	Attentive Interaction Model: Modeling Changes in View in Argumentation	0	0
+NAACL 	2016	Learning to Compose Neural Networks for Question Answering	0	1
+NAACL 	2016	Achieving Accurate Conclusions in Evaluation of Automatic Machine Translation Metrics	0	0
+NAACL 	2016	An Empirical Study of Automatic Chinese Word Segmentation for Spoken Language Understanding and Named Entity Recognition	0	0
+NAACL 	2016	Bayesian Supervised Domain Adaptation for Short Text Similarity	0	0
+NAACL 	2016	Black Holes and White Rabbits: Metaphor Identification with Visual Features	0	0
+NAACL 	2016	Feuding Families and Former Friends; Unsupervised Learning for Dynamic Fictional Relationships	0	1
+NAACL 	2016	Clustering for Simultaneous Extraction of Aspects and Features from Reviews	0	0
+NAACL 	2016	Conversational Markers of Constructive Discussions	0	0
+NAACL 	2016	DAG-Structured Long Short-Term Memory for Semantic Compositionality	0	0
+NAACL 	2016	Deep LSTM based Feature Mapping for Query Classification	0	0
+NAACL 	2015	Unsupervised Morphology Induction Using Word Embeddings	0	1
+NAACL 	2015	Ontologically Grounded Multi-sense Representation Learning for Semantic Vector Space Models	0	0
+NAACL 	2015	Subsentential Sentiment on a Shoestring: A Crosslingual Analysis of Compositional Classification	0	0
+NAACL 	2015	The Unreasonable Effectiveness of Word Representations for Twitter Named Entity Recognition	0	0
+NAACL 	2015	Inferring Temporally-Anchored Spatial Knowledge from Semantic Roles	0	0
+NAACL 	2012	Vine Pruning for Efficient Multi-Pass Dependency Parsing	0	1
+NAACL 	2012	Semantic Textual Similarity for MT evaluation	0	0
+NAACL 	2012	Quality estimation for Machine Translation output using linguistic analysis and decoding features	0	0
+NAACL 	2012	Tree Kernels for Machine Translation Quality Estimation	0	0
+NAACL 	2012	Morpheme- and POS-based IBM1 and language model scores for translation quality estimation	0	0
+ACL	2015	Improving Evaluation of Machine Translation Quality Estimation	0	1
+ACL	2015	A Convolution Kernel Approach to Identifying Comparisons in Text	0	0
+ACL	2015	A Hierarchical Neural Autoencoder for Paragraphs and Documents	0	0
+ACL	2015	Model-based Word Embeddings from Decompositions of Count Matrices	0	0
+ACL	2015	A Unified Multilingual Semantic Representation of Concepts	0	0
+ACL	2015	Learning Dynamic Feature Selection for Fast Sequential Prediction	0	1
+ACL	2015	Adding Semantics to Data-Driven Paraphrasing	0	0
+ACL	2015	Aligning Opinions: Cross-Lingual Opinion Mining with Dependencies	0	0
+ACL	2015	AutoExtend: Extending Word Embeddings to Embeddings for Synsets and Lexemes	0	0
+ACL	2015	Building a Semantic Parser Overnight	0	0
+ACL	2014	Fast and Robust Neural Network Joint Models for Statistical Machine Translation	0	1
+ACL	2014	Representation Learning for Text-level Discourse Parsing	0	0
+ACL	2014	Discovering Latent Structure in Task-Oriented Dialogues	0	0
+ACL	2014	Multilingual Models for Compositional Distributed Semantics	0	0
+ACL	2014	Logical Inference on Dependency-based Compositional Semantics	0	0
