@@ -1,0 +1,1061 @@
+conference	award_year	paper_title	if_tot	if_best_paper
+NeurIPS	2021	Online Learning for Latent Dirichlet Allocation	1	0
+NeurIPS	2021	Additive Gaussian Processes	0	0
+NeurIPS	2021	Double Q-learning	0	0
+NeurIPS	2021	Adaptive Multi-Task Lasso: with Application to...	0	0
+NeurIPS	2021	Multi-View Active Learning in the Non-Realizab...	0	0
+NeurIPS	2021	Multiparty Differential Privacy via Aggregatio...	0	0
+NeurIPS	2021	Evaluation of Rarity of Fingerprints in Forensics	0	0
+NeurIPS	2021	Natural Policy Gradient Methods with Parameter...	0	0
+NeurIPS	2021	Nonlinear Inverse Reinforcement Learning with	0	0
+NeurIPS	2020	Learning Fair Representations	1	0
+NeurIPS	2020	An Inverse Power Method for Nonlinear Eigenpr	0	0
+NeurIPS	2020	Nonparametric Greedy Algorithms for the Sparse...	0	0
+NeurIPS	2020	Extended Bayesian Information Criteria for Gau.	0	0
+NeurIPS	2020	An Infinite Factor Model Hierarchy Via a Noisy...	0	0
+NeurIPS	2020	Bilinear classifiers for visual recognition	0	0
+NeurIPS	2020	Streaming Pointwise Mutual Information	0	0
+NeurIPS	2020	Guaranteed Rank Minimization via Singular Valu	0	0
+NeurIPS	2020	Linear-time Algorithms for Pairwise Statistica...	0	0
+NeurIPS	2020	Fast Image Deconvolution using Hyper-Laplacian...	0	0
+NeurIPS	2020	Robust PCA via Outlier Pursuit	0	0
+NeurIPS	2019	Dual Averaging Methods for Regularized Stochas	1	0
+NeurIPS	2019	Matrix Completion from Noisy Entries	0	0
+NeurIPS	2019	Data-driven calibration of linear estimators w...	0	0
+NeurIPS	2019	Subject independent EEG-based BCI decoding	0	0
+NeurIPS	2019	Exponential Family Graph Matching and Ranking	0	0
+NeurIPS	2019	Time-Varying Dynamic Bayesian Networks	0	0
+NeurIPS	2019	Slow, Decorrelated Features for Pretraining Co...	0	0
+NeurIPS	2019	Sufficient Conditions for Agnostic Active Lear...	0	0
+NeurIPS	2019	Monte Carlo Sampling for Regret Minimization	0	0
+NeurIPS	2018	The Tradeoffs of Large Scale Learning	1	0
+NeurIPS	2018	HM-BiTAM: Bilingual Topic Exploration, Word Al...	0	0
+NeurIPS	2018	Compressed Regression	0	0
+NeurIPS	2018	FilterBoost: Regression and Classification on	0	0
+NeurIPS	2018	DIFFRAC: a discriminative and flexible framewo...	0	0
+NeurIPS	2018	A Constraint Generation Approach to Learning S...	0	0
+NeurIPS	2018	From Online to Batch Learning with Cutoff-Averaging	0	0
+NeurIPS	2018	Asynchronous Distributed Learning of Topic Models	0	0
+NeurIPS	2017	Random Features for Large-Scale Kernel Machines	1	0
+NeurIPS	2017	Bundle Methods for Machine Learning	0	0
+NeurIPS	2017	Efficiently solving convex relaxations for MAP...	0	0
+NeurIPS	2017	Spectral Dependency Parsing with Latent Variables	0	0
+NeurIPS	2017	Ensemble Clustering using Semidefinite Program...	0	0
+NeurIPS	2017	Random Projections for Manifold Learning	0	0
+NeurIPS	2017	Loop Series and Bethe Variational Bounds in At...	0	0
+NeurIPS	2017	N-gram-based Tense Models for Statistical Mach...	0	0
+NeurIPS	2017	Syntactic Transfer Using a Bilingual Lexicon	0	0
+NeurIPS	2017	Regret Minimization in Games with Incomplete I...	0	0
+NeurIPS	2017	Active Learning for Imbalanced Sentiment Class	0	0
+ACL 	2022	Open Language Learning for Information Extraction	1	0
+ACL 	2022	Identifying Broken Plurals, Irregular Gender, ...	0	0
+ACL 	2022	Behind the Article: Recognizing Dialog Acts in...	0	0
+ACL 	2022	Determining the placement of German verbs in E	0	0
+ACL 	2022	A Transition-Based System for Joint Part-of-Sp	0	0
+ACL 	2022	Multi-instance Multi-label Learning for Relati	0	0
+ACL 	2022	Linking Named Entities to Any Database	0	0
+ACL 	2022	Bootstrapping via Graph Propagation	0	0
+ACL 	2022	Characterizing Stylistic Elements in Syntactic...	0	0
+ACL 	2022	Midge: Generating Image Descriptions From Comp	1	0
+ACL 	2022	A Transition-Based System for Joint Part-of-Sp	0	0
+ACL 	2022	Multi-instance Multi-label Learning for Relati	0	0
+ACL 	2022	Linking Named Entities to Any Database	0	0
+ACL 	2022	Characterizing Stylistic Elements in Syntactic...	0	0
+ACL 	2022	Behind the Article: Recognizing Dialog Acts in...	0	0
+ACL 	2022	Determining the placement of German verbs in E	0	0
+ACL 	2022	Machine Transliteration	1	0
+		Monolingual translator workstation	0	0
+		Multiple-subject constructions in the multilingual MT-system CAT	0	0
+		Taxonomy and lexical semantics—from the perspective of machine readable dictionary	0	0
+		Can simultaneous interpretation help machine translation?	0	0
+		Evaluating language technologies	0	0
+		Twisted pair grammar: support for rapid development of machine translation for low density languages	0	0
+		Finding the right words: an analysis of not-translated words in machine translation	0	0
+		Reusing translated terms to expand a multilingual thesaurus	0	0
+		Revision of morphological analysis errors through the person name construction model	0	0
+ACL 	2022	Multilingual Text-to-Speech Synthesis: The Bel...	0	0
+ACL 	2022	PCFG Models of Linguistic Tree Representations	0	0
+ACL 	2022	Three Generative, Lexicalised Models for Stati.	1	0
+ACL 	2022	Lexical selection for cross-language applications: combining LCS with WordNet	0	0
+ACL 	2022	Lexicons as gold: mining, embellishment and reuse	0	0
+ACL 	2022	An ontology-based approach to parsing Turkish sentences	0	0
+ACL 	2022	Rapid prototyping of domain-apecific machine translation systems	0	0
+ACL 	2022	Quality and robustness in MT—A balancing act	0	0
+ACL 	2022	A modular approach to spoken language translation for large domains	0	0
+ACL 	2022	Empirical methods for MT lexicon development	0	0
+ACL 	2022	Reusing translated terms to expand a multilingual thesaurus	0	0
+ACL 	2022	Twisted pair grammar: support for rapid development of machine translation for low density languages	0	0
+ACL 	2022	Automatic Detection of Text Genre	0	0
+ACL 	2022	Expansion of Multi-Word Terms for Indexing and...	0	0
+ACL 	2022	Document Classification Using a Finite Mixture...	0	0
+ACL 	2021	A Maximum Entropy Approach to Natural Langua	1	0
+ACL 	2021	Translating Collocations for Bilingual Lexicon	0	0
+ACL 	2021	Error-tolerant Finite-state Recognition with A..	0	0
+ACL 	2021	Assessing Agreement on Classification Tasks: T...	1	0
+ACL 	2021	Limited Attention and Discourse Structure	0	0
+ACL 	2021	Improving Statistical Language Model Performan...	0	0
+ACL 	2021	Estimating Lexical Priors for Low-Frequency Sy..	0	0
+ACL 	2021	"Lexicon-Based Methods for Sentiment Analysis	"	1	0
+ACL 	2021	Learning to Rank Answers to Non-Factoid Questi.	0	0
+ACL 	2021	Unsupervised Learning of Morphology	0	0
+ACL 	2021	Stable Classification of Text Genres	0	0
+ACL 	2021	"Finding Deceptive Opinion Spam by Any Stretch ...	"	1	0
+ACL 	2021	Deciphering Foreign Language	0	0
+ACL 	2021	Combining Morpheme-based Machine Translation 	0	0
+ACL 	2021	A Word-Class Approach to Labeling PSCFG Rules ...	0	0
+ACL 	2021	A Fast and Accurate Method for Approximate Str...	0	0
+ACL 	2020	Centering: A Framework for Modeling the Local ...	1	0
+ACL 	2020	An Efficient Probabilistic Context-Free Parsin.	0	0
+ACL 	2020	Automatic Stochastic Tagging of Natural Langua...	0	0
+ACL 	2020	Deterministic Part-of-Speech Tagging with Fini..	0	0
+ACL 	2020	Unsupervised Word Sense Disambiguation Rivalin...	1	0
+ACL 	2020	Bayesian Grammar Induction for Language Modeling	0	0
+ACL 	2020	A Quantitative Evaluation of Linguistic Tests ...	0	0
+ACL 	2020	New Techniques for Context Modeling	0	0
+ACL 	2020	Quantifier Scope and Constituency	0	0
+ACL 	2020	Distributional Memory: A General Framework for.	1	0
+ACL 	2020	String-to-Dependency Statistical Machine Trans..	0	0
+ACL 	2020	An Asymptotic Model for the English Hapax/Voca.	0	0
+ACL 	2019	Tagging English Text with a Probabilistic Model	1	0
+ACL 	2019	Tracking Point of View in Narrative	0	0
+ACL 	2019	Tree-Adjoining Grammar Parsing and Boolean Mat...	0	0
+ACL 	2019	RAFT/RAPR and Centering: a comparison and disc...	0	0
+ACL 	2020	Word Representations: A Simple and General Met...	1	0
+ACL 	2020	Conditional Random Fields for Word Hyphenation	0	0
+ACL 	2020	Using Smaller Constituents Rather Than Sentenc...	0	0
+ACL 	2020	Towards Open-Domain Semantic Role Labeling	0	0
+ACL 	2020	Unsupervised Ontology Induction from Text	0	0
+ICML	2022	Poisoning Attacks Against Support Vector Machines	1	0
+ICML	2022	Building high-level features using large scale unsupervised learning (HM)	1	0
+ICML	2022	On causal and anticausal learning (Hon Mention)	0	0
+ICML	2022	Capturing topical content with frequency and exclusivity	0	0
+ICML	2022	Lightning Does Not Strike Twice: Robust MDPs with Coupled Uncertainty	0	0
+ICML	2022	Continuous Inverse Optimal Control with Locally Optimal Examples	0	0
+ICML	2022	Levy Measure Decompositions for the Beta and Gamma Processes	0	0
+ICML	2022	Residual Component Analysis: Generalising PCA for more flexible inference in linear-Gaussian models	0	0
+ICML	2022	Influence Maximization in Continuous Time Diffusion Networks	0	0
+ICML	2021	Bayesian Learning via Stochastic Gradient Langevin Dynamics	1	0
+ICML	2021	Adaptively Learning the Crowd Kernel	0	0
+ICML	2021	Optimal Distributed Online Prediction	0	0
+ICML	2021	Structure Learning in Ergodic Factored MDPs without Knowledge of the Transition Function's In-Degree	0	0
+ICML	2021	Tree preserving embedding	0	0
+ICML	2021	A Three-Way Model for Collective Learning on Multi-Relational Data	0	0
+ICML	2021	Dynamic Egocentric Models for Citation Networks	0	0
+ICML	2021	Online Discovery of Feature Dependencies	0	0
+ICML	2021	Large-Scale Learning of Embeddings with Reconstruction Sampling	0	0
+ICML	2021	Sparse Additive Generative Models of Text	0	0
+ICML	2021	A Spectral Algorithm for Latent Tree Graphical Models	0	0
+ICML	2020	Gaussian Process Optimization in the Bandit Setting: No Regret and Experimental Design	1	0
+ICML	2020	Large Graph Construction for Scalable Semi-Supervised Learning	0	0
+ICML	2020	Boosting Classifiers with Tightened L0-Relaxation Penalties	0	0
+ICML	2020	Modeling Interaction via the Principle of Maximum Causal Entropy	0	0
+ICML	2020	Spherical Topic Models	0	0
+ICML	2020	Probabilistic Backward and Forward Reasoning in Stochastic Relational Worlds	0	0
+ICML	2020	Supervised Aggregation of Classifiers using Artificial Prediction Markets	0	0
+ICML	2020	The Elastic Embedding Algorithm for Dimensionality Reduction	0	0
+ICML	2020	Multiscale Wavelets on Trees, Graphs and High Dimensional Data: Theory and Applications to Semi Supervised Learning	0	0
+ICML	2020	Generalization Bounds for Learning Kernels	0	0
+ICML	2020	A Simple Algorithm for Nuclear Norm Regularized Problems	0	0
+ICML	2020	On Sparse Nonparametric Conditional Covariance Selection	0	0
+ICML	2019	Online dictionary learning for sparse coding	1	0
+ICML	2019	Using fast weights to improve persistent contrastive divergence	0	0
+ICML	2019	Spectral Clustering based on the graph p-Laplacian	0	0
+ICML	2019	Importance weighted active learning	0	0
+ICML	2019	MedLDA: maximum margin supervised topic models for regression and classification	0	0
+ICML	2019	ABC-boost: adaptive base class boost for multi-class classification	0	0
+ICML	2019	Multi-instance learning by treating instances as non-I.I.D. samples	0	0
+ICML	2019	Fitting a graph to vector data	0	0
+ICML	2019	Multiple Indefinite Kernel Learning with Mixed Norm Regularization	0	0
+ICML	2019	Partial order embedding with multiple kernels	0	0
+ICML	2018	A unified architecture for natural language processing: deep neural networks with multitask learning	1	0
+ICML	2018	Stability of transductive regression algorithms	0	0
+ICML	2018	Self-taught clustering	0	0
+ICML	2018	An HDP-HMM for systems with state persistence	0	0
+ICML	2018	No-regret learning in convex games	0	0
+ICML	2018	Grassmann discriminant analysis: a unifying view on subspace-based learning	0	0
+ICML	2018	Discriminative structure and parameter learning for Markov logic networks	0	0
+ICML	2018	The skew spectrum of graphs	0	0
+ICML	2018	Transfer of samples in batch reinforcement learning	0	0
+ICML	2018	A worst-case comparison between temporal difference and residual gradient with linear function approximation	0	0
+ICML	2018	Structure compilation: trading structure for features	0	0
+ACL 	2023	Automatic Word Sense Discrimination	1	0
+ACL 	2023	Similarity-based Word Sense Disambiguation	0	0
+ACL 	2023	A Two Level Model for Context Sensitive Inference Rules	0	0
+ACL 	2023	Adapting Discriminative Reranking to Grounded Language Learning	0	0
+ACL 	2023	Additive Neural Networks for Statistical Machine Translation	0	0
+ACL 	2023	Disambiguating Highly Ambiguous Words	0	0
+ACL 	2023	Advancements in Reordering Models for Statistical Machine Translation	0	0
+ACL 	2023	Improving Chinese Word Segmentation on Micro-blog Using Rich Punctuations	0	0
+ACL 	2023	Using Corpus Statistics and WordNet Relations for Sense Identification	0	0
+ACL 	2023	Topical Clustering of MRD Senses Based on Information Retrieval Techniques	0	0
+ACL 	2023	Generation that Exploits Corpus-Based Statistical Knowledge	1	0
+ACL 	2023	A Framework for Customizable Generation of Hypertext Presentations	0	0
+ACL 	2023	Unification-based Multimodal Parsing	0	0
+ACL 	2023	Joint Inference for Heterogeneous Dependency Parsing	0	0
+ACL 	2023	IndoNet: A Multilingual Lexical Knowledge Network for Indian Languages	0	0
+ACL 	2023	Implicatures and Nested Beliefs in Approximate Decentralized-POMDPs	0	0
+ACL 	2023	Joint Apposition Extraction with Syntactic and Semantic Constraints	0	0
+ACL 	2023	English-to-Russian MT evaluation campaign	0	0
+ACL 	2023	Text Segmentation Using Reiteration and Collocation	0	0
+ACL 	2023	Improving Automatic Indexing through Concept Combination and Term Enrichment	0	0
+ACL 	2023	Eliminative Parsing with Graded Constraints	0	0
+ACL 	2023	Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank	1	0
+ACL 	2023	Animacy Detection with Voting Models	0	0
+ACL 	2023	A Log-Linear Model for Unsupervised Text Normalization	0	0
+ACL 	2023	Exploring Sentiment in Social Media: Bootstrapping Subjectivity Clues from Multilingual Twitter Streams	0	0
+ACL 	2023	Bilingual Lexical Cohesion Trigger Model for Document-Level Machine Translation	0	0
+ACL 	2023	Arguments and Modifiers from the Learner's Perspective	0	0
+ACL 	2023	An Empirical Examination of Challenges in Chinese Parsing	0	0
+ACL 	2023	Learning to Freestyle: Hip Hop Challenge-Response Induction via Transduction Rule Segmentation	0	0
+ACL 	2023	Modeling and Learning Semantic Co-Compositionality through Prototype Projections and Neural Networks	0	0
+ACL 	2023	Growing Multi-Domain Glossaries from a Few Seeds using Probabilistic Topic Models	0	0
+ACL 	2023	MCTest: A Challenge Dataset for the Open-Domain Machine Comprehension of Text	0	0
+ACL 	2023	Universal Dependency Annotation for Multilingual Parsing	1	0
+ACL 	2023	Translating Dialectal Arabic to English	0	0
+ACL 	2023	Supervised Model Learning with Feature Grouping based on a Discrete Constraint	0	0
+ACL 	2023	Natural Language Models for Predicting Programming Comments	0	0
+ACL 	2023	Learning to Order Natural Language Texts	0	0
+ACL 	2023	A Tale about PRO and Monsters	0	0
+ACL 	2023	Random Walk Factoid Annotation for Collective Discourse	0	0
+ACL 	2023	Word surprisal predicts N400 amplitude during reading	0	0
+ACL 	2023	Joint Inference for Heterogeneous Dependency Parsing	0	0
+ACL 	2023	Benefactive/Malefactive Event and Writer Attitude Annotation	0	0
+ACL 	2023	Automated Pyramid Scoring of Summaries using Distributional Semantics	0	0
+ICML	2023	Learning Fair Representations	1	0
+ICML	2023	No more pesky learning rates	0	0
+ICML	2023	Multi-View Clustering and Feature Learning via Structured Sparsity	0	0
+ICML	2023	Planning by Prioritized Sweeping with Small Backups	0	0
+ICML	2023	Covariate Shift in Hilbert Space: A Solution via Sorrogate Kernels	0	0
+ICML	2023	Spectral Compressed Sensing via Structured Matrix Completion	0	0
+ICML	2023	Multi-Task Learning with Gaussian Matrix Generalized Inverse Gaussian Model	0	0
+ICML	2023	Near-optimal bounds for cross-validation via loss stability	0	0
+ICML	2023	A spectral learning approach to range-only SLAM	0	0
+ICML	2023	On the Generalization Ability of Online Learning Algorithms for Pairwise Loss Functions	0	0
+ICML	2023	That was fast! Speeding up NN search of high dimensional distributions	0	0
+ICML	2023	Deep Canonical Correlation Analysis	1	0
+ICML	2023	Making a Science of Model Search: Hyperparameter Optimization in Hundreds of Dimensions for Vision Architectures	1	0
+ICML	2022	Poisoning Attacks against Support Vector Machines	1	0
+ICML	2022	Latent Collaborative Retrieval	0	0
+ICML	2022	Lightning Does Not Strike Twice: Robust MDPs with Coupled Uncertainty	0	0
+ICML	2022	Cross-Domain Multitask Learning with Latent Probit Models	0	0
+ICML	2022	A Dantzig Selector Approach to Temporal Difference Learning	0	0
+ICML	2022	Batch Active Learning via Coordinated Matching	0	0
+ICML	2022	The Landmark Selection Method for Multiple Output Prediction	0	0
+ICML	2022	Learning the Central Events and Participants in Unlabeled Text	0	0
+ICML	2022	On the Difficulty of Nearest Neighbor Search	0	0
+ICML	2022	Efficient Active Algorithms for Hierarchical Clustering	0	0
+ICML	2022	Finding Botnets Using Minimal Graph Clusterings	0	0
+ICML	2017	Combining online and offline knowledge in UCT	1	0
+ICML	2017	Learning random walks to rank nodes in graphs	0	0
+ICML	2017	Solving MultiClass Support Vector Machines with LaRank	0	0
+ICML	2017	Multiple Instance Learning for Sparse Positive Bags	0	0
+ICML	2017	"
+Multiclass core vector machine"	0	0
+ICML	2017	Learning distance function by coding similarity	0	0
+ICML	2017	Solving multiclass support vector machines with LaRank	0	0
+ICML	2017	Cluster analysis of heterogeneous rank data	0	0
+ICML	2017	Direct convex relaxations of sparse SVM	0	0
+ICML	2017	Boosting for transfer learning	0	0
+ICML	2017	Percentile optimization in uncertain Markov decision processes with application to efficient exploration	0	0
+ICML	2017	Unsupervised prediction of citation influences	0	0
+ICML	2017	Pegasos: Primal estimated sub-gradient solver for SVM	1	0
+ICML	2017	Two-view feature generation model for semi-supervised learning	0	0
+ICML	2017	Multiclass core vector machine	0	0
+ICML	2017	Learning distance function by coding similarity	0	0
+ICML	2017	Discriminative learning for differing training and test distributions	0	0
+ICML	2017	Multiple instance learning for sparse positive bags	0	0
+ICML	2017	Feature selection in a kernel space	0	0
+ICML	2017	Local similarity discriminant analysis	0	0
+ICML	2017	Learning to compress images and videos	0	0
+ICML	2017	Full regularization path for sparse principal component analysis	0	0
+ICML	2017	Intractability and clustering with constraints	0	0
+ICML	2017	A Bound on the Label Complexity of Agnostic Active Learning	1	0
+ICML	2015	Learning to rank using gradient descent	1	0
+ICML	2015	Tempering for Bayesian C&RT	0	0
+ICML	2015	Action respecting embedding	0	0
+ICML	2015	Fast Condensed Nearest Neighbor Rule	0	0
+ICML	2015	Closed-form dual perturb and combine for tree-based models	0	0
+ICML	2015	Near-Optimal Sensor Placements in Gaussian Processes	0	0
+ICML	2015	Interactive Learning of Mappings from Visual Percepts to Actions	0	0
+ICML	2015	Reducing overfitting in process model induction	0	0
+ICML	2015	Learning class-discriminative dynamic Bayesian networks	0	0
+ICML	2015	Variational Bayesian image modelling	0	0
+ICML	2015	A general regression technique for learning transductions	0	0
+NAACL	2018	BLEU: a Method for Automatic Evaluation of Machine Translation	1	0
+NAACL	2018	Generation as Dependency Parsing	0	0
+NAACL	2018	Pronominalization in Generated Discourse and Dialogue	0	0
+NAACL	2018	Learning surface text patterns for a Question Answering System	0	0
+NAACL	2018	Active Learning for Statistical Natural Language Parsing	0	0
+NAACL	2018	GATE: an Architecture for Development of Robust HLT applications	0	0
+NAACL	2018	The Descent of Hierarchy, and Selection in Relational Semantics	0	0
+NAACL	2018	Named Entity Recognition using an HMM-based Chunk Tagger	0	0
+NAACL	2018	From Single to Multi-document Summarization	0	0
+NAACL	2018	Is It the Right Answer? Exploiting Web Redundancy for Answer Validation	0	0
+NAACL	2018	Evaluating Translational Correspondence using Annotation Projection	0	0
+EMNLP	2018	Discriminative Training Methods for Hidden Markov Models: Theory and Experiments with Perceptron Algorithms	1	0
+EMNLP	2018	Modeling Consensus: Classifier Combination for Word Sense Disambiguation	0	0
+EMNLP	2018	Combining Sample Selection and Error-Driven Pruning for Machine Learning of Coreference Rules	0	0
+EMNLP	2018	Kernel Methods for Relation Extraction	0	0
+EMNLP	2018	Extentions to HMM-based Statistical Word Alignment Models	0	0
+EMNLP	2018	Exploiting Strong Syntactic Heuristics and Co-Training to Learn Semantic Lexicons	0	0
+EMNLP	2018	A Hybrid Approach to Natural Language Web Search	0	0
+EMNLP	2018	Ensemble Methods for Automatic Thesaurus Extraction	0	0
+EMNLP	2018	An Analysis of the AskMSR Question-Answering System	0	0
+EMNLP	2018	Extracting Clauses for Spoken Language Understanding in Conversational Systems	0	0
+EMNLP	2018	Using the Web to Overcome Data Sparseness	0	0
+EMNLP	2018	Thumbs up? Sentiment Classification using Machine Learning Techniques	0	0
+ICCV	2015	A database of human segmented natural images and its application to evaluating segmentation algorithms and measuring ecological statistics	1	0
+ICCV	2015	Split Aperture Imaging for High Dynamic Range	0	0
+ICCV	2015	A co-inference approach to robust visual tracking	0	0
+ICCV	2015	BraMBLe: a Bayesian multiple-blob tracker	0	0
+ICCV	2015	Deriving intrinsic images from image sequences	0	0
+ICCV	2015	Multi-agent event recognition	0	0
+ICCV	2015	A general imaging model and a method for finding its parameters	0	0
+ICCV	2015	Image segmentation by data driven Markov chain Monte Carlo	0	0
+ICCV	2015	Multiple view geometry of non-planar algebraic curves	0	0
+ICCV	2015	Folds and cuts: how shading flows into edges	0	0
+ICCV	2013	Indexing via color histograms	1	0
+ICCV	2013	Computing two motions from three frames	0	0
+ICCV	2013	Computing spatiotemporal surface flow	0	0
+ICCV	2013	Detecting and localizing edges composed of steps, peaks and roofs	0	0
+ICCV	2013	Detection of convex and concave discontinuous points in a plane curve	0	0
+ICCV	2013	Uniqueness, the minimum norm constraint, and analog networks for optical flow along contours	0	0
+ICCV	2013	Simple method for computing 3D motion and depth	0	0
+ICCV	2013	Robustness of correspondence-based structure from motion	0	0
+ICCV	2013	Segmentation as the search for the best description of the image in terms of primitives	0	0
+ICCV	2013	Perceptual organization of occluding contours	0	0
+ICCV	2013	Segmenting curves into elliptic arcs and straight lines	0	0
+ICCV	2013	Steerable filters for early vision, image analysis, and wavelet decomposition	1	0
+ICCV	2013	A framework for the robust estimation of optical flow,	1	0
+ICCV	2013	Egomotion analysis based on the Frenet-Serret motion model	0	0
+ICCV	2013	A framework for the robust estimation of optical flow	0	0
+ICCV	2013	Tracking non-rigid objects in complex scenes	0	0
+ICCV	2013	Extracting projective structure from single perspective views of 3D point sets	0	0
+ICCV	2013	A finite element model for 3D shape reconstruction and nonrigid motion tracking	0	0
+ICCV	2013	A generalized brightness change model for computing optical flow	0	0
+ICCV	2013	An improved algorithm for algebraic curve and surface fitting	0	0
+ICCV	2013	Building and using flexible models incorporating grey-level information	0	0
+ICCV	2013	A global algorithm for shape from shading	0	0
+ICCV	2013	Alignment by Maximization of Mutual Information	1	0
+ICCV	2013	Better optical triangulation through spacetime analysis	0	0
+ICCV	2013	Motion from the frontier of curved surfaces	0	0
+ICCV	2013	Rigid body segmentation and shape description from dense optical flow under weak perspective	0	0
+ICCV	2013	Global rigidity constraints in image displacement fields	0	0
+ICCV	2013	The nonparametric approach for camera calibration	0	0
+ICCV	2013	Bayesian decision theory, the maximum local mass estimate, and color constancy	0	0
+ICCV	2013	Combining color and geometry for the active, visual recognition of shadows	0	0
+ICCV	2013	Class-based grouping in perspective images	0	0
+ICCV	2013	Unsupervised parallel image classification using a hierarchical Markovian model	0	0
+ICCV	2013	In defence of the 8-point algorithm	1	0
+ICCV	2013	Structure and semi-fluid motion analysis of stereoscopic satellite images for cloud tracking	0	0
+ICCV	2013	Better optical triangulation through spacetime analysis	0	0
+ICCV	2013	Image segmentation by reaction-diffusion bubbles	0	0
+ICCV	2013	Indexing visual representations through the complexity map	0	0
+ICCV	2013	Direct estimation of affine image deformations using visual front-end operations with automatic scale selection	0	0
+ICCV	2013	Texture segmentation and shape in the same image	0	0
+ICCV	2013	An integrated stereo-based approach to automatic vehicle guidance	0	0
+ICCV	2013	A multi-body factorization method for motion analysis	0	0
+ICCV	2013	Reconstruction from Image Sequences by Means of Relative Depths	0	0
+ECCV	2022	A Naturalistic Open Source Movie for Optical Flow Evaluation	1	0
+ECCV	2022	Match Graph Construction for Large Image Databases	0	0
+ECCV	2022	Local Expert Forest of Score Fusion for Video Event Classification	0	0
+ECCV	2022	Text Image Deblurring Using Text-Specific Properties	0	0
+ECCV	2022	Non-causal Temporal Prior for Video Deblocking	0	0
+ECCV	2022	Divergence-Free Motion Estimation	0	0
+ECCV	2022	Learning Spatially-Smooth Mappings in Non-Rigid Structure From Motion	0	0
+ECCV	2022	Camera Pose Estimation Using First-Order Curve Differential Geometry	0	0
+ECCV	2022	Going with the Flow: Pedestrian Efficiency in Crowded Scenes	0	0
+ECCV	2022	Unsupervised Temporal Commonality Discovery	0	0
+ECCV	2022	Block-Sparse RPCA for Consistent Foreground Detection	0	0
+ECCV	2022	Indoor Segmentation and Support Inference from RGBD Images	1	0
+ECCV	2022	Action Recognition with Exemplar Based 2.5D Graph Matching	0	0
+ECCV	2022	Detecting Actions, Poses, and Objects with Relational Phraselets	0	0
+ECCV	2022	Background Subtraction with Dirichlet Processes	0	0
+ECCV	2022	Color Constancy, Intrinsic Images, and Shape Estimation	0	0
+ECCV	2022	Robust and Practical Face Recognition via Structured Sparsity	0	0
+ECCV	2022	Efficient Closed-Form Solution to Generalized Boundary Detection	0	0
+ECCV	2022	Automatic Tracking of a Large Number of Moving Targets in 3D	0	0
+ECCV	2022	Segmentation over Detection by Coupled Global and Local Sparse Representations	0	0
+ECCV	2022	Reading Ancient Coins: Automatically Identifying Denarii Using Obverse Legend Seeded Retrieval	0	0
+ECCV	2020	Improving the Fisher Kernel for Large-Scale Image Classification	1	0
+ECCV	2020	Bundle Adjustment in the Large	0	0
+ECCV	2020	Image Invariants for Smooth Reflective Surfaces	0	0
+ECCV	2020	Detecting Ground Shadows in Outdoor Consumer Photographs	0	0
+ECCV	2020	Photometric Stereo for Dynamic Surface Orientations	0	0
+ECCV	2020	Facial Contour Labeling via Congealing	0	0
+ECCV	2020	An Iterative Method with General Convex Fidelity Term for Image Restoration	0	0
+ECCV	2020	A Dual Theory of Inverse and Forward Light Transport	0	0
+ECCV	2020	Membrane Nonrigid Image Registration	0	0
+ECCV	2020	Video Synchronization Using Temporal Signals from Epipolar Lines	0	0
+ECCV	2020	BRIEF: Binary Robust Independent Elementary Features	1	0
+ECCV	2020	Cosegmentation Revisited: Models and Optimization	0	0
+ECCV	2020	Energy Minimization under Constraints on Label Counts	0	0
+ECCV	2020	Optimal Contour Closure by Superpixel Grouping	0	0
+ECCV	2020	Shape from Second-Bounce of Light Transport	0	0
+ECCV	2020	LACBoost and FisherBoost: Optimally Building Cascade Classifiers	0	0
+ECCV	2020	A Fast Dual Method for HIK SVM Learning	0	0
+ECCV	2020	Optimal Contour Closure by Superpixel Grouping	0	0
+ECCV	2020	Localizing Objects While Learning Their Appearance	0	0
+ECCV	2018	Hamming Embedding and Weak Geometric Consistency for Large Scale Image Search	1	0
+ECCV	2018	Scale Invariant Action Recognition Using Compound Features Mined from Dense Spatio-temporal Corners	0	0
+ECCV	2018	Joint Parametric and Non-parametric Curve Evolution for Medical Image Segmentation	0	0
+ECCV	2018	Weakly Supervised Object Localization with Stable Segmentations	0	0
+ECCV	2018	Shape Matching by Segmentation Averaging	0	0
+ECCV	2018	Optimization of Symmetric Transfer Error for Sub-frame Video Synchronization	0	0
+ECCV	2018	Illumination and Person-Insensitive Head Pose Estimation Using Distance Metric Learning	0	0
+ECCV	2018	Automatic Generator of Minimal Problem Solvers	0	0
+ECCV	2018	Semi-supervised On-Line Boosting for Robust Tracking	1	0
+ECCV	2018	3D Non-rigid Surface Matching and Registration Based on Holomorphic Differentials	0	0
+ECCV	2018	Training Hierarchial Feed-forward Visual Recognition Models Using Transfer Learning from Pseudo-Tasks	0	0
+ECCV	2018	Belief Propagation with Directional Statistics for solving the Shape-from-Shading problem	0	0
+ECCV	2018	Fusion of Feature- and Area-Based Information for Urban Buildings Modeling from Aerial Imagery	0	0
+ECCV	2018	Joint Parametric and Non-Parametric Curve Evolution for Medical Image Segmentation	0	0
+ECCV	2018	Analysis of Building Textures for Reconstructing Partially Occluded Facades	0	0
+ECCV	2018	Scale Invariant Action Recognition using Compound Features Mined from Dense Spatio-temporal Corners	0	0
+ECCV	2018	Direct Bundle Estimation for Recovery of Shape, Reflectance Property and Light Position	0	0
+ECCV	2018	Automated Delineation of Dendritic Networks in Noisy Image Stacks	0	0
+ECCV	2018	Robust Visual Tracking Based on an Effective Appearance Model	0	0
+ECCV	2016	SURF: Speeded Up Robust Features	1	0
+ECCV	2016	Robust Multi-view Face Detection Using Error Correcting Output Codes	0	0
+ECCV	2016	What Is the Range of Surface Reconstructions from a Gradient Field?	0	0
+ECCV	2016	Riemannian Manifold Learning for Nonlinear Dimensionality Reduction	0	0
+ECCV	2016	Comparison of Energy Minimization Algorithms for Highly Connected Graphs	0	0
+ECCV	2016	Carved Visual Hulls for Image-Based Modeling	0	0
+ECCV	2016	Object Detection by Contour Segment Networks	0	0
+ECCV	2016	The 4-Source Photometric Stereo under General Unknown Lighting	0	0
+ECCV	2016	PoseCut: Simultaneous Segmentation and 3D Pose Estimation of Humans Using Dynamic Graph-Cuts	0	0
+ECCV	2016	Differential Geometric Consistency Extends Stereo to Curved Surfaces	0	0
+ECCV	2016	Effective Appearance Model and Similarity Measure for Particle Filtering and Visual Tracking	0	0
+ECCV	2016	Machine Learning for High-Speed Corner Detection	1	0
+ECCV	2016	Unsupervised patch-based image regularization and representation	0	0
+ECCV	2016	Retexturing Single Views Using Texture and Shading	0	0
+ECCV	2016	Face Recognition from Video using the Generic Shape-Illumination Manifold	0	0
+ECCV	2016	Robust Multi-View Face Detection Using Error Correcting Output Codes	0	0
+ECCV	2016	The 4-Source Photometric Stereo under General Unknown Lighting	0	0
+ECCV	2016	PoseCut: Simultaneous Segmentation and 3D Pose Estimation of Humans using Dynamic Graph-Cuts 	0	0
+ECCV	2016	Measuring Uncertainty in Graph Cut Solutions - Efficiently Computing Min-marginal Energies using Dynamic Graph Cuts	0	0
+ECCV	2016	Retexturing Single Views Using Texture and Shading	0	0
+ECCV	2016	Unsupervised Patch-Based Image Regularization and Representation	0	0
+ECCV	2016	Multi-way Clustering Using Super-Symmetric Non-negative Tensor Factorization	0	0
+ECCV	2014	Face Recognition with Local Binary Patterns	1	0
+ECCV	2014	A Framework for Pencil-of-Points Structure-from-Motion	0	0
+ECCV	2014	A Constrained Semi-supervised Learning Approach to Data Association	0	0
+ECCV	2014	Enhancing Particle Filters Using Local Likelihood Sampling	0	0
+ECCV	2014	Model Selection for Range Segmentation of Curved Objects	0	0
+ECCV	2014	Discriminant Analysis on Embedded Manifold	0	0
+ECCV	2014	Visibility Analysis and Sensor Planning in Dynamic Environments	0	0
+ECCV	2014	Learning Mixtures of Weighted Tree-Unions by Minimizing Description Length	0	0
+ECCV	2014	Decision Theoretic Modeling of Human Facial Displays	0	0
+ECCV	2014	An Accuracy Certified Augmented Reality System for Therapy Guidance	0	0
+ECCV	2014	A Feature-Based Approach for Determining Dense Long Range Correspondences	0	0
+ECCV	2014	High Accuracy Optical Flow Estimation Based on a Theory for Warping	1	0
+ECCV	2014	A Visual Category Filter for Google Images	0	0
+ECCV	2014	Hand Gesture Recognition within a Linguistics-Based Framework	0	0
+ECCV	2014	Line Geometry for 3D Shape Understanding and Reconstruction	0	0
+ECCV	2014	Many-to-Many Feature Matching Using Spherical Coding of Directed Graphs	0	0
+ECCV	2014	A Linguistic Feature Vector for the Visual Interpretation of Sign Language	0	0
+ECCV	2014	Interactive Image Segmentation Using an Adaptive GMMRF Model	0	0
+ECCV	2014	Steering in Scale Space to Optimally Detect Image Structures	0	0
+ECCV	2014	Structure and Motion Problems for Multiple Rigidly Moving Cameras	0	0
+ECCV	2014	An Information-Based Measure for Grouping Quality	0	0
+ECCV	2014	Partial Object Matching with Shapeme Histograms	0	0
+ECCV	2012	What energy functions can be minimized via graph cuts?	1	0
+ECCV	2012	Combining Appearance and Topology for Wide Baseline Matching	0	0
+ECCV	2012	Guided Sampling and Consensus for Motion Estimation	0	0
+ECCV	2012	Texture Similarity Measure Using Kullback-Leibler Divergence between Gamma Distributions	0	0
+ECCV	2012	Composite Texture Descriptions	0	0
+ECCV	2012	Shape from Texture without Boundaries	0	0
+ECCV	2012	The Effect of Illuminant Rotation on Texture Filters: Lissajous’s Ellipses	0	0
+ECCV	2012	An Affine Invariant Interest Point Detector	0	0
+ECCV	2012	Multimodal Data Representations with Parameterized Local Structures	0	0
+ECCV	2012	Resolution Selection Using Generalized Entropies of Multiresolution Histograms	0	0
+ECCV	2012	A Hierarchical Framework for Spectral Correspondence	0	0
+ECCV	2010	Stochastic Tracking of 3D Human Figures Using 2D Image Motion	1	0
+ECCV	2010	Real-Time Tracking of Multiple Articulated Structures in Multiple Views	0	0
+ECCV	2010	Bootstrap Initialization of Nonparametric Texture Models for Tracking	0	0
+ECCV	2010	Pedestrian Detection from a Moving Vehicle	0	0
+ECCV	2010	Bootstrap Initialization of Nonparametric Texture Models for Tracking	0	0
+ECCV	2010	Coupled Geodesic Active Regions for Image Segmentation: A Level Set Approach	0	0
+ECCV	2010	Model-Based Initialisation for Segmentation	0	0
+ECCV	2010	Tracking Discontinuous Motion Using Bayesian Inference	0	0
+ECCV	2010	The Construction of 3 Dimensional Models Using an Active Vision System	0	0
+ECCV	2010	Coupled Geodesic Active Regions for Image Segmentation: A Level Set Approach	0	0
+ECCV	2010	Layer Extraction with a Bayesian Model of Shapes	0	0
+ECCV	2010	Unsupervised Learning of Models for Recognition	1	0
+ECCV	2010	A Unifying Theory for Central Panoramic Systems and Practical Implications	0	0
+ECCV	2010	Motion Segmentation by Tracking Edge Information over Multiple Frames	0	0
+ECCV	2010	Statistical Significance as an Aid to System Performance Evaluation	0	0
+ECCV	2010	On the Performance Characterisation of Image Segmentation Algorithms: A Case Study	0	0
+ECCV	2010	Nautical Scene Segmentation Using Variable Size Image Windows and Feature Space Reclustering	0	0
+ECCV	2010	A Physically-Based Statistical Deformable Model for Brain Image Analysis	0	0
+ECCV	2010	Registration with a Moving Zoom Lens Camera for Augmented Reality Applications	0	0
+ECCV	2010	Multi-view Constraints between Collineations: Application to Self-Calibration from Unknown Planar Structures	0	0
+ECCV	2010	Model-Based Initialisation for Segmentation	0	0
+ECCV	2010	A Probabilistic Background Model for Tracking	0	0
+ECCV	2008	Contour Tracking by Stochastic Propagation of Conditional Density	1	0
+ECCV	2008	Stereo Matching with Implicit Detection of Occlusions	0	0
+ECCV	2008	Robust Registration of Dissimilar Single and Multimodal Images	0	0
+ECCV	2008	Robust registration of dissimilar single and multimodal images	0	0
+ECCV	2008	Spatiotemporally adaptive estimation and segmentation of OF-fields	0	0
+ECCV	2008	Multichannel shape from shading techniques for moving specular surfaces	0	0
+ECCV	2008	Creaseness from level set extrinsic curvature	0	0
+ECCV	2008	Flexible Syntactic Matching of Curves	0	0
+ECCV	2008	Creaseness from Level Set Extrinsic Curvature	0	0
+ECCV	2008	Surface Reconstruction with Multiresolution Discontinuity Analysis	0	0
+ECCV	2008	Reconstruction of Smooth Surfaces with Arbitrary Topology Adaptive Splines	0	0
+ECCV	2008	Camera Self-Calibration: Theory and Experiments	1	0
+ECCV	2008	Changes in surface convexity and topology caused by distortions of stereoscopic visual space	0	0
+ECCV	2008	Reconstruction of smooth surfaces with arbitrary topology adaptive splines	0	0
+ECCV	2008	Optical flow using overlapped basis functions for solving global motion problems	0	0
+ECCV	2008	Discrete wavelet analysis: A new framework for fast optic flow computation	0	0
+ECCV	2008	Shape representations from shading primitives	0	0
+ECCV	2008	A comparison of measures for detecting natural shapes in cluttered backgrounds	0	0
+ECCV	2008	Estimating coloured 3D face models from single images: An example based approach	0	0
+ECCV	2008	Optical Flow Using Overlapped Basis Functions for Solving Global Motion Problems	0	0
+ECCV	2008	The Role of Total Least Squares in Motion Analysis	0	0
+ECCV	2008	Discrete Wavelet Analysis: A New Framework for Fast Optic Flow Computation	0	0
+CVPR	2023	Online Object Tracking: A Benchmark	1	0
+CVPR	2023	Saliency Detection via Graph-Based Manifold Ranking	0	0
+CVPR	2023	Discriminative Subspace Clustering	0	0
+CVPR	2023	Fast Energy Minimization Using Learned State Filters	0	0
+CVPR	2023	GeoF: Geodesic Forests for Learning Coupled Predictors	0	0
+CVPR	2023	Fast Trust Region for Segmentation	0	0
+CVPR	2023	Robust Real-Time Tracking of Multiple Objects by Volumetric Mass Densities	0	0
+CVPR	2022	Are we ready for autonomous driving? The KITTI vision benchmark suite	1	0
+CVPR	2022	Robust Non-negative Graph Embedding: Towards noisy data, unreliable graphs, and noisy labels	0	0
+CVPR	2022	Convex reduction of high-dimensional kernels for visual classification	0	0
+CVPR	2022	Salient object detection for searched web images via global saliency	0	0
+CVPR	2022	Fixed-rank representation for unsupervised visual learning	0	0
+CVPR	2022	Real-time scene text localization and recognition	0	0
+CVPR	2022	Online robust image alignment via iterative convex optimization	0	0
+CVPR	2021	Real-time human pose recognition in parts from single depth images	1	0
+CVPR	2021	Visual saliency detection by spatially weighted dissimilarity.	0	0
+CVPR	2021	Correspondence driven adaptation for human profile recognition.	0	0
+CVPR	2021	Bypassing synthesis: PLS for face recognition with pose, low-resolution and sketch.	0	0
+CVPR	2021	Online domain adaptation of a pre-trained cascade of classifiers.	0	0
+CVPR	2021	Interreflection removal for photometric stereo by using spectrum-dependent albedo.	0	0
+CVPR	2021	Combining attributes and Fisher vectors for efficient image retrieval.	0	0
+CVPR	2021	Face image retrieval by shape manipulation.	0	0
+CVPR	2021	Online domain adaptation of a pre-trained cascade of classifiers	0	0
+CVPR	2021	Learning effective human pose estimation from inaccurate annotation	0	0
+CVPR	2021	Parameter learning with truncated message-passing	0	0
+CVPR	2021	Coupled information-theoretic encoding for face photo-sketch recognition	0	0
+CVPR	2021	Recovery of corrupted low-rank matrices via half-quadratic based nonconvex minimization	0	0
+CVPR	2021	Baby talk: Understanding and generating simple image descriptions	1	0
+CVPR	2021	3D motion reconstruction for real-world camera motion.	0	0
+CVPR	2021	Importance filtering for image retargeting. 	0	0
+CVPR	2021	Sparse approximated nearest points for image set classification.	0	0
+CVPR	2021	Separating reflective and fluorescent components of an image.	0	0
+CVPR	2021	Enhancing by saliency-guided decolorization.	0	0
+CVPR	2021	High resolution multispectral video capture with a hybrid camera system.	0	0
+CVPR	2021	Motion denoising with application to time-lapse photography.	0	0
+CVPR	2021	Three-dimensional kaleidoscopic imaging.	0	0
+CVPR	2021	Style transfer matrix learning for writer adaptation.	0	0
+CVPR	2021	Contextualizing Object Detection and Classification	0	0
+CVPR	2021	A fully automated greedy square jigsaw puzzle solver	0	0
+CVPR	2021	Glare encoding of high dynamic range images	0	0
+CVPR	2020	Secrets of optical flow estimation and their principles	1	0
+CVPR	2020	Finding dots: Segmentation as popping out regions from boundaries	0	0
+CVPR	2020	Estimating optical properties of layered surfaces using the spider model	0	0
+CVPR	2020	Direct image alignment of projector-camera systems with planar surfaces	0	0
+CVPR	2020	Global optimization for estimating a BRDF with multiple specular lobes	0	0
+CVPR	2020	An approach to vectorial total variation based on geometric measure theory	0	0
+CVPR	2020	Estimation of image bias field with sparsity constraints	0	0
+CVPR	2019	ImageNet: A large-scale hierarchical image database	1	0
+CVPR	2019	Hardware-Efficient Belief Propagation	0	0
+CVPR	2019	Blind motion deblurring from a single image using sparse approximation	0	0
+CVPR	2019	Support Vector Machines in face recognition with occlusions	0	0
+CVPR	2019	Volterrafaces: Discriminant analysis using Volterra kernels	0	0
+CVPR	2019	Automated feature extraction for early detection of diabetic retinopathy in fundus images	0	0
+CVPR	2019	Markerless Motion Capture with unsynchronized moving cameras	0	0
+CVPR	2018	A discriminatively trained, multiscale, deformable part model	1	0
+CVPR	2018	Human-assisted motion annotation	0	0
+CVPR	2018	Using contours to detect and localize junctions in natural images	0	0
+CVPR	2018	Face alignment via boosted ranking model	0	0
+CVPR	2018	Variable baseline/resolution stereo	0	0
+CVPR	2018	Fast image search for learned metrics	0	0
+CVPR	2018	Simple calibration of non-overlapping cameras with a mirror	0	0
+CVPR	2017	120661309	1	0
+CVPR	2017	Online Learning Asymmetric Boosted Classifiers for Object Detection	0	0
+CVPR	2017	Inferring Temporal Order of Images From 3D Structure	0	0
+CVPR	2017	What makes a good model of natural images?	0	0
+CVPR	2017	3D Occlusion Inference from Silhouette Cues	0	0
+CVPR	2017	Human Detection via Classification on Riemannian Manifolds	0	0
+CVPR	2017	Approximate Nearest Subspace Search with Applications to Pattern Recognition	0	0
+CVPR	2017	Object retrieval with large vocabularies and fast spatial matching	1	0
+CVPR	2017	Color Constancy using Natural Image Statistics	0	0
+CVPR	2017	Polarization and Phase-Shifting for 3D Scanning of Translucent Objects	0	0
+CVPR	2017	Offline Signature Verification Using Online Handwriting Registration	0	0
+CVPR	2017	Detailed Human Shape and Pose from Images	0	0
+CVPR	2017	Microphone Arrays as Generalized Cameras for Integrated Audio Visual Processing	0	0
+CVPR	2017	Learning Gaussian Conditional Random Fields for Low-Level Vision	0	0
+CVPR	2016	Beyond Bags of Features: Spatial Pyramid Matching for Recognizing Natural Scene Categories	1	0
+CVPR	2016	A New Formulation for Shape from Shading for Non-Lambertian Surfaces.	0	0
+CVPR	2016	Spatial Reflectance Recovery under Complex Illumination from Sparse Images.	0	0
+CVPR	2016	Separation of Highlight Reflections on Textured Surfaces.	0	0
+CVPR	2016	Specular Flow and the Recovery of Surface Structure.	0	0
+CVPR	2016	A Framework for Feature Selection for Background Subtraction.	0	0
+CVPR	2016	Learning Non-Metric Partial Similarity Based on Maximal Margin Criterion	0	0
+CVPR	2016	Bayesian Estimation of Smooth Parameter Maps for Dynamic Contrast-Enhanced MR Images with Block-ICM	0	0
+CVPR	2016	Integrating Spatial and Discriminant Strength for Feature Selection and Linear Dimensionality Reduction	0	0
+CVPR	2016	A Comprehensive Empirical Study on Linear Subspace Methods for Facial Expression Analysis	0	0
+CVPR	2016	Transitivity-based Removal of Correspondence Outliers for Motion Analysis	0	0
+CVPR	2016	Scalable Recognition with a Vocabulary Tree	1	0
+CVPR	2016	AnnoSearch: Image Auto-Annotation by Search.	0	0
+CVPR	2016	A Detection Technique for Degraded Face Images.	0	0
+CVPR	2016	Learning Temporal Sequence Model from Partially Labeled Data	0	0
+CVPR	2016	Activity Analysis in Microtubule Videos by Mixture of Hidden Markov Models	0	0
+CVPR	2016	Dimensionality Reduction by Learning an Invariant Mapping	0	0
+CVPR	2016	An Integrated Segmentation and Classification Approach Applied to Multiple Sclerosis Analysis	0	0
+CVPR	2016	Robust Statistical Estimation and Segmentation of Multiple Subspaces	0	0
+CVPR	2016	Multi-view Appearance-based 3D Hand Pose Estimation	0	0
+CVPR	2016	Interactive Feature Tracking using K-D Trees and Dynamic Programming	0	0
+CVPR	2015	Histograms of oriented gradients for human detection	1	0
+CVPR	2015	Concurrent Subspaces Analysis.	0	0
+CVPR	2015	The Distinctiveness, Detectability, and Robustness of Local Image Features. 	0	0
+CVPR	2015	Damped Newton Algorithms for Matrix Factorization with Missing Data.	0	0
+CVPR	2015	Optimal Sub-Shape Models by Minimum Description Length.	0	0
+CVPR	2015	Symmetric Stereo Matching for Occlusion Handling.	0	0
+CVPR	2015	A Computer Vision System on a Chip: a case study from the automotive domain	0	0
+CVPR	2015	WaldBoost - learning for time constrained sequential detection	0	0
+CVPR	2015	Two-view geometry estimation unaffected by a dominant plane	0	0
+CVPR	2015	Formulating semantic image annotation as a supervised learning problem	0	0
+CVPR	2015	Integrated learning of saliency, complex features, and object detectors from cluttered scenes	0	0
+CVPR	2015	A non-local algorithm for image denoising	1	0
+CVPR	2015	Visual Tracking in the Presence of Motion Blur.	0	0
+CVPR	2015	Higher-Order Image Statistics for Unsupervised, Information-Theoretic, Adaptive, Image Filtering.	0	0
+CVPR	2015	Determining the Radiometric Response Function from a Single Grayscale Image.	0	0
+CVPR	2015	Combining Object and Feature Dynamics in Probabilistic Tracking.	0	0
+CVPR	2015	Localization in urban environments: monocular vision compared to a differential GPS sensor	0	0
+CVPR	2015	Multiscale segmentation by combining motion and intensity cues	0	0
+CVPR	2015	Hybrid models for human motion recognition	0	0
+CVPR	2015	Beyond pairwise clustering	0	0
+CVPR	2014	A performance evaluation of local descriptors	1	0
+CVPR	2014	View independent human body pose estimation from a single perspective image	0	0
+CVPR	2014	Cyclic articulated human motion tracking by sequential ancestral simulation	0	0
+CVPR	2014	Extraction and integration of window in a 3D building model from ground view images	0	0
+CVPR	2014	A flexible projector-camera system for multi-planar displays	0	0
+CVPR	2014	Bridging the gaps between cameras	0	0
+CVPR	2014	Hidden semantic concept discovery in region based image retrieval	0	0
+CVPR	2014	A Hierarchical Framework For High Resolution Facial Expression Tracking	0	0
+CVPR	2014	MetaMorphs: Deformable shape and texture models	0	0
+CVPR	2014	Bayesian video matting using learnt image priors	0	0
+CVPR	2014	Multiobjective data clustering	0	0
+CVPR	2013	Object class recognition by unsupervised scale-invariant learning	1	0
+CVPR	2013	Clustering Appearances of Objects Under Varying Illumination Conditions. 	0	0
+CVPR	2013	Kinematic Jump Processes For Monocular 3D Human Tracking.	0	0
+CVPR	2013	Man-Made Structure Detection in Natural Images using a Causal Multiscale Random Field. 	0	0
+CVPR	2013	A Bayesian Approach to Image-Based Visual Hull Reconstruction. 	0	0
+CVPR	2013	Simultaneous Estimation of Left Ventricular Motion and Material Properties with Maximum a Posteriori Strategy.	0	0
+CVPR	2013	Low-Overlap Range Image Registration for Archaeological Applications	0	0
+CVPR	2013	Computing layered surface representations: an algorithm for detecting and separating transparent overlays	0	0
+CVPR	2013	Feature selection by maximum marginal diversity: optimality and implications for visual recognition	0	0
+CVPR	2013	Degeneracies, dependencies and their implications in multi-body and multi-sequence factorizations	0	0
+CVPR	2013	Joint manifold distance: a new approach to appearance based clustering	0	0
+CVPR	2011	Rapid object detection using a boosted cascade of simple features	1	0
+CVPR	2011	Bayesian Learning of Sparse Classifiers. 	0	0
+CVPR	2011	Image Indexing with Mixture Hierarchies.	0	0
+CVPR	2011	Efficient Evaluation of Classification and Recognition Systems.	0	0
+CVPR	2011	Undoing Paper Curl Distortion Using Applicable Surfaces.	0	0
+CVPR	2011	A New 3-D Pattern Recognition Technique With Application to Computer Aided Colonoscopy.	0	0
+CVPR	2011	Linear image coding for regression and classification using the tensor-rank principle	0	0
+CVPR	2011	Time-varying shape tensors for scenes with multiply moving points	0	0
+CVPR	2011	A probabilistic framework for graph clustering	0	0
+CVPR	2011	Critical configurations for n-view projective reconstruction	0	0
+CVPR	2011	Face verification using error correcting output codes	0	0
+CVPR	2010	Efficient matching of pictorial structures	1	0
+CVPR	2010	Provably Fast Algorithms for Contour Tracking	0	0
+CVPR	2010	Scene Constraints-Aided Tracking of Human Body	0	0
+CVPR	2010	Cameras for Stereo Panoramic Imaging	0	0
+CVPR	2010	Discriminant-EM Algorithm with Application to Image Retrieval	0	0
+CVPR	2010	Optimizing Learning in Image Retrieval	0	0
+CVPR	2010	A probabilistic architecture for content-based image retrieval	0	0
+CVPR	2010	Inferring body pose without tracking body parts	0	0
+CVPR	2010	Fast face detection using subspace discriminant wavelet features	0	0
+CVPR	2010	Color tracking by transductive learning	0	0
+CVPR	2010	Adaptive Bayesian recognition in tracking rigid objects	0	0
+CVPR	2010	Real-time tracking of non-rigid objects using mean shift	1	0
+CVPR	2010	Alpha Estimation in Natural Images	0	0
+CVPR	2010	Blind Recovery of Transparent and Semireflected Scenes	0	0
+CVPR	2010	Are Multifractal Multipermuted Multinomial Measures Good Enough for Unsupervised Image Segmentation?	0	0
+CVPR	2010	Learning Patterns from Images by Combining Soft Decisions and Hard Decisions	0	0
+CVPR	2010	Mixture Models and the Segmentation of Multimodal Textures	0	0
+CVPR	2010	A region extraction method using multiple active contour models	0	0
+CVPR	2010	Multi-modality model-based registration in the cardiac domain	0	0
+CVPR	2010	Robust and efficient skeletal graphs	0	0
+CVPR	2010	A novel approach to depth ordering in monocular image sequences	0	0
+CVPR	2010	Provably fast algorithms for contour tracking	0	0
+CVPR	2009	Statistics of natural images and models	1	0
+CVPR	2009	Q-warping: direct computation of quadratic reference surfaces	0	0
+CVPR	2009	Progressive probabilistic Hough transform for line detection	0	0
+CVPR	2009	Critical motions in euclidean structure from motion	0	0
+CVPR	2009	Optimal rigid motion estimation and performance evaluation with bootstrap	0	0
+CVPR	2009	3D trajectory recovery for tracking multiple objects and trajectory guided recognition of actions	0	0
+CVPR	2008	Probabilistic modeling of local appearance and spatial relationships for object recognition	1	0
+CVPR	2008	Moment Invariants and Quantization Effects.	0	0
+CVPR	2008	Empirical Performance Analysis of Linear Discriminant Classifiers.	0	0
+CVPR	2008	Salient and Multiple Illusory Surfaces.	0	0
+CVPR	2008	Variable-Scale Smoothing and Edge Detection Guided by Stereoscopy.	0	0
+CVPR	2008	Stochastic Computation of Medial Axis in Markov Random Fields.	0	0
+CVPR	2008	A Bayesian framework for semantic content characterization	0	0
+CVPR	2008	A spatiotemporal motion model for video summarization	0	0
+CVPR	2008	Image segmentation using local variation	0	0
+CVPR	2008	Correspondence between different view breast X-rays using a simulation of breast deformation	0	0
+CVPR	2008	Orientation space filtering for multiple orientation line segmentation	0	0
+CVPR	2008	Tracking people with twists and exponential maps	1	0
+CVPR	2008	Incremental Tracking of Human Actions from Multiple Views	0	0
+CVPR	2008	Using Adaptive Tracking to Classify and Monitor Activities in a Site.	0	0
+CVPR	2008	Rotation Invariant Neural Network-Based Face Detection	0	0
+CVPR	2008	Illumination Cones for Recognition under Variable Lighting: Faces.	0	0
+CVPR	2008	Stochastic Computation of Medial Axis in Markov Random Fields.	0	0
+CVPR	2008	A New Complex Basis for Implicit Polynomial Curves and its Simple Exploitation for Pose Estimation and Invariant Recognition.	0	0
+CVPR	2008	Fuzzy Relational Distance for Large-Scale Object Recognition. 	0	0
+CVPR	2008	Hierarchical organization of appearance-based parts and relations for object recognition	0	0
+CVPR	2008	Camera calibration and Euclidean reconstruction from known observer translations	0	0
+CVPR	2008	Motion feature detection using steerable flow fields	0	0
+CVPR	2007	Normalized cuts and image segmentation	1	0
+CVPR	2007	Model-based brightness constraints: on direct estimation of structure and motion	0	0
+CVPR	2007	Reconstruction of 3D-curves from 2D-images using affine shape methods for curves	0	0
+CVPR	2007	Fast 3D stabilization and mosaic construction	0	0
+CVPR	2007	Self-maintaining camera calibration over time	0	0
+CVPR	2007	Using geometric corners to build a 2D mosaic from a set of images	0	0
+CVPR	2007	Training support vector machines: an application to face detection	1	0
+CVPR	2007	Color-Based Tracking of Heads and Other Mobile Objects at Video Frame Rates	0	0
+CVPR	2007	An image-based visual-motion-cue for autonomous navigation	0	0
+CVPR	2007	An Assessment of Information Criteria for Motion Model Selection	0	0
+CVPR	2007	Pictorial Recognition Using Affine-Invariant Spectral Signatures	0	0
+CVPR	2007	Uncalibrated 1D projective camera and 3D affine reconstruction of lines	0	0
+CVPR	2007	Determining a Polyhedral Shape Using Interreflections	0	0
+CVPR	2007	Deterioration detection for digital film restoration	0	0
+CVPR	2007	Characterization of errors in compositing panoramic images	0	0
+CVPR	2007	LAFTER: Lips and Face Real-Time Tracker	0	0
+CVPR	2007	FOCUS: Searching for multi-colored objects in a diverse image database	0	0
+CVPR	2007	MDL estimation for small sample sizes and its application to segmenting binary strings	0	0
+CVPR	2006	Neural network-based face detection	1	0
+CVPR	2006	Epipolar Geometry and Linear Subspace Methods: A New Approach to Weak Calibration	0	0
+CVPR	2006	A factorization method for affine structure from line correspondences	0	0
+CVPR	2006	Optimal servoing for active foveated vision	0	0
+CVPR	2006	Minimal operator set for passive depth from defocus	0	0
+CVPR	2006	Eigenfeatures for planar pose measurement of partially occluded objects	0	0
+CVPR	2006	Combining greyvalue invariants with local constraints for object recognition	1	0
+CVPR	2006	3-D Scene Data Recovery Using Omnidirectional Multibaseline Stereo	0	0
+CVPR	2006	Competitive mixture of deformable models for pattern classification	0	0
+CVPR	2006	Structure and motion of curved 3D objects from monocular silhouettes	0	0
+NeurIPS	2021	A Universal Law of Robustness via Isoperimetry	0	1
+NeurIPS	2021	On the Expressivity of Markov Reward	0	1
+NeurIPS	2021	Deep Reinforcement Learning at the Edge of the Statistical Precipice	0	1
+NeurIPS	2021	MAUVE: Measuring the Gap Between Neural Text and Human Text using Divergence Frontiers	0	1
+NeurIPS	2021	Continuized Accelerations of Deterministic and Stochastic Gradient Descents, and of Gossip Algorithms	0	1
+NeurIPS	2021	3D Pose Transfer with Correspondence Learning and Mesh Refinement	0	0
+NeurIPS	2021	A 3D Generative Model for Structure-Based Drug Design	0	0
+NeurIPS	2021	Accommodating Picky Customers: Regret Bound and Exploration Complexity for Multi-Objective Reinforcement Learning	0	0
+NeurIPS	2021	AC-GC: Lossy Activation Compression with Guaranteed Convergence	0	0
+NeurIPS	2021	A Compositional Atlas of Tractable Circuit Operations for Probabilistic Inference	0	0
+NeurIPS	2020	Accelerating Training of Transformer-Based Language Models with Progressive Layer Dropping	0	0
+NeurIPS	2020	A Closer Look at the Training Strategy for Modern Meta-Learning	0	0
+NeurIPS	2020	Active Structure Learning of Causal DAGs via Directed Clique Tree	0	0
+NeurIPS	2020	Adapting Neural Architectures Between Domains	0	0
+NeurIPS	2020	Language Models are Few-Shot Learners	0	1
+NeurIPS	2020	Improved guarantees and a multiple-descent curve for Column Subset Selection and the Nystrom method	0	1
+NeurIPS	2020	No-Regret Learning Dynamics for Extensive-Form Correlated Equilibrium	0	1
+NeurIPS	2019	Distribution-Independent PAC Learning of Halfspaces with Massart Noise	0	1
+NeurIPS	2019	Uniform convergence may be unable to explain generalization in deep learning	0	1
+NeurIPS	2019	Nonparametric Density Estimation & Convergence Rates for GANs under Besov IPM Losses	0	1
+NeurIPS	2019	Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations	0	1
+NeurIPS	2019	A Bayesian Theory of Conformity in Collective Decision Making	0	0
+NeurIPS	2019	Abstract Reasoning with Distracting Features	0	0
+NeurIPS	2019	Accelerating Rescaled Gradient Descent: Fast Optimization of Smooth Functions	0	0
+NeurIPS	2019	Accurate, reliable and fast robustness evaluation	0	0
+NeurIPS	2019	A Composable Specification Language for Reinforcement Learning Tasks	0	0
+NeurIPS	2018	Non-delusional Q-learning and Value-iteration	0	1
+NeurIPS	2018	Optimal Algorithms for Non-Smooth Distributed Optimization in Networks	0	1
+NeurIPS	2018	Nearly Tight Sample Complexity Bounds for Learning Mixtures of Gaussians via Sample Compression Schemes	0	1
+NeurIPS	2018	Neural Ordinary Differential Equations	0	1
+NeurIPS	2018	Batch-Instance Normalization for Adaptively Style-Invariant Neural Networks	0	0
+NeurIPS	2018	KDGAN: Knowledge Distillation with Generative Adversarial Networks	0	0
+NeurIPS	2018	Contextual bandits with surrogate losses: Margin bounds and efficient algorithms	0	0
+NeurIPS	2018	Adaptive Sampling Towards Fast Graph Representation Learning	0	0
+NeurIPS	2018	Learning SMaLL Predictors	0	0
+NeurIPS	2018	ResNet with one-neuron hidden layers is a Universal Approximator	0	0
+NeurIPS	2018	Data center cooling using model-predictive control	0	0
+NeurIPS	2017	Safe and Nested Subgame Solving for Imperfect-Information Games.	0	1
+NeurIPS	2017	Variance-based Regularization with Convex Objectives.	0	1
+NeurIPS	2017	A Linear-Time Kernel Goodness-of-Fit Test.	0	1
+NeurIPS	2017	Real Time Image Saliency for Black Box Classifiers	0	0
+NeurIPS	2017	Inverse Filtering for Hidden Markov Models	0	0
+NeurIPS	2017	Langevin Dynamics with Continuous Tempering for Training Deep Neural Networks	0	0
+NeurIPS	2017	Scalable Levy Process Priors for Spectral Kernel Learning	0	0
+NeurIPS	2017	Query Complexity of Clustering with Side Information	0	0
+NeurIPS	2017	High-Order Attention Models for Visual Question Answering	0	0
+NeurIPS	2017	PASS-GLM: polynomial approximate sufficient statistics for scalable Bayesian GLM inference	0	0
+NeurIPS	2016	Visual Dynamics: Probabilistic Future Frame Synthesis via Cross Convolutional Networks	0	0
+NeurIPS	2016	Stochastic Gradient Richardson-Romberg Markov Chain Monte Carlo	0	0
+NeurIPS	2016	Budgeted stream-based active learning via adaptive submodular maximization	0	0
+NeurIPS	2016	A Non-convex One-Pass Framework for Generalized Factorization Machine and Rank-One Matrix Sensing	0	0
+NeurIPS	2016	Measuring the reliability of MCMC inference with bidirectional Monte Carlo	0	0
+NeurIPS	2016	Image Restoration Using Very Deep Convolutional Encoder-Decoder Networks with Symmetric Skip Connections	0	0
+NeurIPS	2016	Fast and accurate spike sorting of high-channel count probes with KiloSort	0	0
+NeurIPS	2015	Competitive Distribution Estimation: Why is Good-Turing Good	0	1
+NeurIPS	2015	Fast Convergence of Regularized Learning in Games	0	1
+NeurIPS	2015	Double or Nothing: Multiplicative Incentive Mechanisms for Crowdsourcing	0	0
+NeurIPS	2015	Covariance-Controlled Adaptive Langevin Thermostat for Large-Scale Bayesian Sampling	0	0
+NeurIPS	2015	Planar Ultrametrics for Image Segmentation	0	0
+NeurIPS	2015	Parallel Correlation Clustering on Big Graphs	0	0
+NeurIPS	2015	A Convergent Gradient Descent Algorithm for Rank Minimization and Semidefinite Programming from Random Linear Measurements	0	0
+ACL	2020	Beyond Accuracy: Behavioral Testing of NLP Models with CheckList	0	1
+ACL	2020	A Batch Normalized Inference Network Keeps the KL Vanishing Away	0	0
+ACL	2020	A Comprehensive Analysis of Preprocessing for Word Representation Learning in Affective Tasks	0	0
+ACL	2020	A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking	0	0
+ACL	2020	A Formal Hierarchy of RNN Architectures	0	0
+ACL	2020	A Generative Model for Joint Natural Language Understanding and Generation	0	0
+ACL	2019	Bridging the Gap between Training and Inference for Neural Machine Translation	0	1
+ACL	2019	Abstractive Text Summarization Based on Deep Learning and Semantic Content Generalization	0	0
+ACL	2019	A Cross-Domain Transferable Neural Coherence Model	0	0
+ACL	2019	Adaptive Attention Span in Transformers	0	0
+ACL	2019	Adversarial Learning of Privacy-Preserving Text Representations for De-Identification of Medical Records	0	0
+ACL	2019	A Hierarchical Reinforced Sequence Operation Method for Unsupervised Text Style Transfer	0	0
+ACL	2018	Finding syntax in human encephalography with beam search	0	1
+ACL	2018	Learning to Ask Good Questions: Ranking Clarification Questions using Neural Expected Value of Perfect Information	0	1
+ACL	2018	Let’s do it “again”: A First Computational Approach to Detecting Adverbial Presupposition Triggers	0	1
+ACL	2018	A Helping Hand: Transfer Learning for Deep Sentiment Analysis	0	0
+ACL	2018	Improving Entity Linking by Modeling Latent Relations between Mentions	0	0
+ACL	2018	The Hitchhiker’s Guide to Testing Statistical Significance in Natural Language Processing	0	0
+ACL	2018	Strong Baselines for Neural Semi-Supervised Learning under Domain Shift	0	0
+ACL	2018	Attention Focusing for Neural Machine Translation by Bridging Source and Target Embeddings	0	0
+ACL	2017	Probabilistic Typology: Deep Generative Models of Vowel Inventories	0	1
+ACL	2017	Adversarial Multi-task Learning for Text Classification	0	0
+ACL	2017	The State of the Art in Semantic Representation	0	0
+ACL	2017	Discourse Mode Identification in Essays	0	0
+ACL	2017	Deep Neural Machine Translation with Linear Associative Unit	0	0
+ACL	2017	Automatically Generating Rhythmic Verse with Neural Networks	0	0
+CVPR	2020	Unsupervised Learning of Probably Symmetric Deformable 3D Objects From Images in the Wild	0	1
+CVPR	2020	Unsupervised Learning for Intrinsic Image Decomposition From a Single Image	0	0
+CVPR	2020	Alleviation of Gradient Exploding in GANs: Fake Can Be Real	0	0
+CVPR	2020	Zooming Slow-Mo: Fast and Accurate One-Stage Space-Time Video Super-Resolution	0	0
+CVPR	2020	A Hierarchical Graph Network for 3D Object Detection on Point Clouds	0	0
+CVPR	2020	Video to Events: Recycling Video Datasets for Event Cameras	0	0
+CVPR	2019	A Theory of Fermat Paths for Non-Line-Of-Sight Shape Reconstruction	0	1
+CVPR	2019	On the Structural Sensitivity of Deep Convolutional Networks to the Directions of Fourier Basis Functions	0	0
+CVPR	2019	Striking the Right Balance With Uncertainty	0	0
+CVPR	2019	Kervolutional Neural Networks	0	0
+CVPR	2019	NM-Net: Mining Reliable Neighbors for Robust Feature Correspondences	0	0
+CVPR	2019	Relational Action Forecasting	0	0
+CVPR	2018	Taskonomy: Disentangling Task Transfer Learning	0	1
+CVPR	2018	Zero-Shot Sketch-Image Hashing	0	0
+CVPR	2018	VizWiz Grand Challenge: Answering Visual Questions from Blind People	0	0
+CVPR	2018	Link and Code: Fast Indexing with Graphs and Compact Regression Codes	0	0
+CVPR	2018	Unsupervised Deep Generative Adversarial Hashing Network	0	0
+CVPR	2018	DenseASPP for Semantic Segmentation in Street Scenes	0	0
+CVPR	2017	Densely Connected Convolutional Networks	0	1
+CVPR	2017	Local Binary Convolutional Neural Networks	0	0
+CVPR	2017	Face Normals "In-the-Wild" Using Fully Convolutional Networks	0	0
+CVPR	2017	Towards a Quality Metric for Dense Light Fields	0	0
+CVPR	2017	A Non-convex Variational Approach to Photometric Stereo under Inaccurate Lighting	0	0
+CVPR	2017	Correlational Gaussian Processes for Cross-Domain Visual Recognition	0	0
+CVPR	2017	Learning from Simulated and Unsupervised Images through Adversarial Training	0	1
+CVPR	2016	Deep Residual Learning for Image Recognition	0	1
+CVPR	2016	Generation and Comprehension of Unambiguous Object Descriptions	0	0
+CVPR	2016	Image Question Answering Using Convolutional Neural Network with Dynamic Parameter Prediction	0	0
+CVPR	2016	Multi-cue Zero-Shot Learning with Strong Supervision	0	0
+CVPR	2016	Learning Attributes Equals Multi-Source Domain Generalization	0	0
+CVPR	2016	Learning Dense Correspondence via 3D-Guided Cycle Consistency	0	0
+ECCV	2022	On the Versatile Uses of Partial Distance Correlation in Deep Learning	0	1
+ECCV	2022	Contrastive Deep Supervision	0	0
+ECCV	2022	SeqFormer: Sequential Transformer for Video Instance Segmentation	0	0
+ECCV	2022	Pose2Room: Understanding 3D Scenes from Human Activities	0	0
+ECCV	2022	TAPE: Task-Agnostic Prior Embedding for Image Restoration	0	0
+ECCV	2022	Rethinking IoU-based Optimization for Single-stage 3D Object Detection	0	0
+ECCV	2020	RAFT: Recurrent All-Pairs Field Transforms for Optical Flow	0	1
+ECCV	2020	Describing Textures using Natural Language	0	0
+ECCV	2020	AiR: Attention with Reasoning Capability	0	0
+ECCV	2020	Invertible Image Rescaling	0	0
+ECCV	2020	Crowdsampling the Plenoptic Function	0	0
+ECCV	2020	DeepSFM: Structure From Motion Via Deep Bundle Adjustment	0	0
+ECCV	2018	Implicit 3D Orientation Learning for 6D Object Detection from RGB Images	0	1
+ECCV	2018	Deep Cross-Modal Projection Learning for Image-Text Matching	0	0
+ECCV	2018	Context Refinement for Object Detection	0	0
+ECCV	2018	Deep Expander Networks: Efficient Deep Networks from Graph Theory	0	0
+ECCV	2018	PyramidBox: A Context-assisted Single Shot Face Detector	0	0
+ECCV	2018	Contemplating Visual Emotions: Understanding and Overcoming Dataset Bias	0	0
+ECCV	2016	Real-Time 3D Reconstruction and 6-DoF Tracking with an Event Camera	0	1
+ECCV	2016	Online Variational Bayesian Motion Averaging	0	0
+ECCV	2016	Inter-battery Topic Representation Learning	0	0
+ECCV	2016	Real-Time Facial Segmentation and Performance Capture from RGB Input	0	0
+ECCV	2016	Learning Temporal Transformations from Time-Lapse Videos	0	0
+ECCV	2016	Interactive Image Segmentation Using Constrained Dominant Sets	0	0
+ECCV	2014	Large-Scale Object Classification using Label Relation Graphs	0	1
+ECCV	2014	3D Reconstruction of Dynamic Textures in Crowd Sourced Data	0	0
+ECCV	2014	SRA: Fast Removal of General Multipath for ToF Sensors	0	0
+ECCV	2014	Read My Lips: Continuous Signer Independent Weakly Supervised Viseme Recognition	0	0
+ECCV	2014	Probabilistic Temporal Head Pose Estimation Using a Hierarchical Graphical Model	0	0
+ECCV	2014	Robust Visual Tracking with Double Bounding Box Model	0	0
+ECCV	2014	Scene Chronology	0	1
+ECCV	2014	Learning Brightness Transfer Functions for the Joint Recovery of Illumination Changes and Optical Flow	0	0
+ECCV	2014	Learning Discriminative and Shareable Features for Scene Classification	0	0
+ECCV	2014	Neural Codes for Image Retrieval	0	0
+ECCV	2012	Segmentation Propagation in ImageNet	0	1
+ECCV	2012	Morphable Displacement Field Based Image Matching for Face Recognition across Pose	0	0
+ECCV	2012	Joint Image and Word Sense Discrimination for Image Retrieval	0	0
+ECCV	2012	Undoing the Damage of Dataset Bias	0	0
+ECCV	2012	Learning to Efficiently Detect Repeatable Interest Points in Depth Data	0	0
+ECCV	2012	Effective Use of Frequent Itemset Mining for Image Classification	0	0
+ECCV	2010	Graph Cut based Inference with Co-occurrence Statistics	0	1
+ECCV	2010	ADICT: Accurate Direct and Inverse Color Transformation	0	0
+ECCV	2010	Part-Based Feature Synthesis for Human Detection	0	0
+ECCV	2010	Towards Optimal Naive Bayes Nearest Neighbor	0	0
+ECCV	2010	Learning What and How of Contextual Models for Scene Labeling	0	0
+ECCV	2010	Improved Human Parsing with a Full Relational Model	0	0
+ECCV	2008	Learning Spatial Context: Using Stuff to Find Things	0	1
+ECCV	2008	Face Alignment Via Component-Based Discriminative Search	0	0
+ECCV	2008	Regularized Partial Matching of Rigid Shapes	0	0
+ECCV	2008	Linear Time Maximally Stable Extremal Regions	0	0
+ECCV	2008	A Probabilistic Approach to Integrating Multiple Cues in Visual Tracking	0	0
+ECCV	2008	The Naked Truth: Estimating Body Shape Under Clothing	0	0
+ICCV	2021	Swin Transformer: Hierarchical Vision Transformer using Shifted Windows	0	1
+ICCV	2021	4D-Net for Learned Multi-Modal Alignment	0	0
+ICCV	2021	Perturbed Self-Distillation: Weakly Supervised Large-Scale Point Cloud Semantic Segmentation	0	0
+ICCV	2021	EventHands: Real-Time Neural 3D Hand Pose Estimation from an Event Stream	0	0
+ICCV	2021	Focus on the Positives: Self-Supervised Learning for Biodiversity Monitoring	0	0
+ICCV	2021	Bridging Unsupervised and Supervised Depth from Focus via All-in-Focus Supervision	0	0
+ICCV	2019	SinGAN: Learning a Generative Model from a Single Natural Image	0	1
+ICCV	2019	Controllable Artistic Text Style Transfer via Shape-Matching GAN	0	0
+ICCV	2019	InGAN: Capturing and Retargeting the “DNA” of a Natural Image	0	0
+ICCV	2019	Meta-Sim: Learning to Generate Synthetic Datasets	0	0
+ICCV	2019	A Graph-Based Framework to Bridge Movies and Synopses	0	0
+ICCV	2019	Counterfactual Critic Multi-Agent Training for Scene Graph Generation	0	0
+ICCV	2017	Mask R-CNN	0	1
+ICCV	2017	Robust Pseudo Random Fields for Light-Field Stereo Matching	0	0
+ICCV	2017	Distributed Very Large Scale Bundle Adjustment by Global Camera Consensus	0	0
+ICCV	2017	Anticipating Daily Intention Using On-wrist Motion Triggered Sensing	0	0
+ICCV	2017	Temporal Tessellation: A Unified Approach for Video Analysis	0	0
+ICCV	2017	Colored Point Cloud Registration Revisited	0	0
+ICCV	2015	Deep Neural Decision Forests	0	1
+ICCV	2015	Ask Your Neurons: A Neural-Based Approach to Answering Questions about Images	0	0
+ICCV	2015	Learning to See by Moving	0	0
+ICCV	2015	Pose Induction for Novel Object Categories	0	0
+ICCV	2015	Local Convolutional Features with Unsupervised Training for Image Retrieval	0	0
+ICCV	2015	RIDE: Reversal Invariant Descriptor Enhancement	0	0
+ICML	2021	Unbiased Gradient Estimation in Unrolled Computation Graphs with Persistent Evolution Strategies	0	1
+ICML	2021	A New Representation of Successor Features for Transfer across Dissimilar Environments	0	0
+ICML	2021	Massively Parallel and Asynchronous Tsetlin Machine Architecture Supporting Almost Constant-Time Scaling	0	0
+ICML	2021	Memory Efficient Online Meta Learning	0	0
+ICML	2021	Acceleration via Fractal Learning Rate Schedules	0	0
+ICML	2021	Label Inference Attacks from Log-loss Scores	0	0
+ICML	2020	On Learning Sets of Symmetric Elements	0	1
+ICML	2020	Flow Models for Arbitrary Conditional Likelihoods	0	0
+ICML	2020	Adaptive Checkpoint Adjoint Method for Gradient Estimation in Neural ODE	0	0
+ICML	2020	AdaScale SGD: A User-Friendly Algorithm for Distributed Training	0	0
+ICML	2020	Alleviating Privacy Attacks via Causal Learning	0	0
+ICML	2020	An Optimistic Perspective on Offline Deep Reinforcement Learning	0	0
+ICML	2020	Tuning-free Plug-and-Play Proximal Algorithm for Inverse Imaging Problems	0	1
+ICML	2019	Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations	0	1
+ICML	2019	Rates of Convergence for Sparse Variational Gaussian Process Regression	0	1
+ICML	2019	Dynamic Weights in Multi-Objective Deep Reinforcement Learning	0	0
+ICML	2019	Distributed Learning with Sublinear Communication	0	0
+ICML	2019	Static Automatic Batching In TensorFlow	0	0
+ICML	2019	Fair Regression: Quantitative Definitions and Reduction-based Algorithms	0	0
+ICML	2019	The Kernel Interaction Trick: Fast Bayesian Discovery of Pairwise Interactions in High Dimensions	0	0
+ICML	2018	Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples	0	1
+ICML	2018	Delayed Impact of Fair Machine Learning	0	1
+ICML	2018	State Abstractions for Lifelong Reinforcement Learning	0	0
+ICML	2018	oi-VAE: Output Interpretable VAEs for Nonlinear Group Factor Analysis	0	0
+ICML	2018	Differentially Private Identity and Equivalence Testing of Discrete Distributions	0	0
+ICML	2018	Make the Minority Great Again: First-Order Regret Bound for Contextual Bandits	0	0
+ICML	2018	MAGAN: Aligning Biological Manifolds	0	0
+ICML	2017	Understanding Black-box Predictions via Influence Functions	0	1
+ICML	2017	The Price of Differential Privacy for Online Learning	0	0
+ICML	2017	Connected Subgraph Detection with Mirror Descent on SDPs	0	0
+ICML	2017	Doubly Accelerated Methods for Faster CCA and Generalized Eigendecomposition	0	0
+ICML	2017	Averaged-DQN: Variance Reduction and Stabilization for Deep Reinforcement Learning	0	0
+ICML	2017	Generalization and Equilibrium in Generative Adversarial Nets (GANs)	0	0
+EMNLP	2019	Specializing Word Embeddings (for Parsing) by Information Bottleneck	0	1
+EMNLP	2019	“Transforming” Delete, Retrieve, Generate Approach for Controlled Text Style Transfer	0	0
+EMNLP	2019	A Bayesian Approach for Sequence Tagging with Crowds	0	0
+EMNLP	2019	A Benchmark Dataset for Learning to Intervene in Online Hate Speech	0	0
+EMNLP	2019	A Boundary-aware Neural Model for Nested Named Entity Recognition	0	0
+EMNLP	2019	A Dataset of General-Purpose Rebuttal	0	0
+EMNLP	2018	Linguistically-Informed Self-Attention for Semantic Role Labeling	0	1
+EMNLP	2018	Character-level Chinese-English Translation through ASCII Encoding	0	0
+EMNLP	2018	Discourse-Related Language Contrasts in English-Croatian Human and Machine Translation	0	0
+EMNLP	2018	Beyond Weight Tying: Learning Joint Input-Output Embeddings for Neural Machine Translation	0	0
+EMNLP	2018	Attaining the Unattainable? Reassessing Claims of Human Parity in Neural Machine Translation	0	0
+EMNLP	2018	Neural Machine Translation into Language Varieties	0	0
+EMNLP	2017	Depression and Self-Harm Risk Assessment in Online Forums	0	1
+EMNLP	2017	Natural Language Does Not Emerge ‘Naturally’ in Multi-Agent Dialog	0	0
+EMNLP	2017	Zipporah: a Fast and Scalable Data Cleaning System for Noisy Web-Crawled Parallel Corpora	0	0
+EMNLP	2017	Charmanteau: Character Embedding Models For Portmanteau Creation	0	0
+EMNLP	2017	Analogs of Linguistic Structure in Deep Representations	0	0
+EMNLP	2017	Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints	0	1
+EMNLP	2017	Analogs of Linguistic Structure in Deep Representations	0	0
+EMNLP	2017	Adapting Sequence Models for Sentence Correction	0	0
+EMNLP	2017	Transition-Based Disfluency Detection using LSTMs	0	0
+EMNLP	2016	Global Neural CCG Parsing with Optimality Guarantees	0	1
+EMNLP	2016	POLY: Mining Relational Paraphrases from Multilingual Sentences	0	0
+EMNLP	2016	Nested Propositions in Open Information Extraction	0	0
+EMNLP	2016	Aspect Level Sentiment Classification with Deep Memory Network	0	0
+EMNLP	2016	Improving Information Extraction by Acquiring External Evidence with Reinforcement Learning	0	1
+EMNLP	2016	Discourse Parsing with Attention-based Hierarchical Neural Networks	0	0
+EMNLP	2016	Recursive Neural Conditional Random Fields for Aspect-based Sentiment Analysis	0	0
+EMNLP	2016	Extracting Aspect Specific Opinion Expressions	0	0
+EMNLP	2015	Semantically Conditioned LSTM-based Natural Language Generation for Spoken Dialogue Systems	0	1
+EMNLP	2015	Broad-coverage CCG Semantic Parsing with AMR	0	0
+EMNLP	2015	Script Induction as Language Modeling	0	0
+EMNLP	2015	Context-Dependent Knowledge Graph Embedding	0	0
+EMNLP	2015	"	Broad-coverage CCG Semantic Parsing with AMR"	0	1
+EMNLP	2015	Distributional vectors encode referential attributes	0	0
+EMNLP	2015	Dependency Graph-to-String Translation	0	0
+EMNLP	2015	Reordering Grammar Induction	0	0
+EMNLP	2014	Modeling Biological Processes for Reading Comprehension	0	1
+EMNLP	2014	Identifying Argumentative Discourse Structures in Persuasive Essays	0	0
+EMNLP	2014	A Constituent-Based Approach to Argument Labeling with Joint Inference in Discourse Parsing	0	0
+EMNLP	2014	Accurate Word Segmentation and POS Tagging for Japanese Microblogs: Corpus Annotation and Joint Modeling with Lexical Normalization	0	0
+EMNLP	2013	Breaking Out of Local Optima with Count Transforms and Model Recombination: A Study in Grammar Induction	0	1
+EMNLP	2013	A Multimodal LDA Model integrating Textual, Cognitive and Visual Modalities	0	0
+EMNLP	2013	A temporal model of text periodicities using Gaussian Processes	0	0
+EMNLP	2013	Assembling the Kazakh Language Corpus	0	0
+EMNLP	2013	Automatically Determining a Proper Length for Multi-Document Summarization: A Bayesian Nonparametric Approach	0	0
+NAACL 	2019	BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding	0	1
+NAACL 	2019	Benchmarking Hierarchical Script Knowledge	0	0
+NAACL 	2019	Beyond task success: A closer look at jointly learning to see, ask, and GuessWhat	0	0
+NAACL 	2019	Bidirectional Attentive Memory Networks for Question Answering over Knowledge Bases	0	0
+NAACL 	2019	BoolQ: Exploring the Surprising Difficulty of Natural Yes/No Questions	0	0
+NAACL 	2018	Deep Contextualized Word Representations	0	1
+NAACL 	2018	Label-Aware Double Transfer Learning for Cross-Specialty Medical Named Entity Recognition	0	0
+NAACL 	2018	Joint Bootstrapping Machines for High Confidence Relation Extraction	0	0
+NAACL 	2018	Improving Character-Based Decoding Using Target-Side Morphological Information for Neural Machine Translation	0	0
+NAACL 	2018	Attentive Interaction Model: Modeling Changes in View in Argumentation	0	0
+NAACL 	2016	Learning to Compose Neural Networks for Question Answering	0	1
+NAACL 	2016	Achieving Accurate Conclusions in Evaluation of Automatic Machine Translation Metrics	0	0
+NAACL 	2016	An Empirical Study of Automatic Chinese Word Segmentation for Spoken Language Understanding and Named Entity Recognition	0	0
+NAACL 	2016	Bayesian Supervised Domain Adaptation for Short Text Similarity	0	0
+NAACL 	2016	Black Holes and White Rabbits: Metaphor Identification with Visual Features	0	0
+NAACL 	2016	Feuding Families and Former Friends; Unsupervised Learning for Dynamic Fictional Relationships	0	1
+NAACL 	2016	Clustering for Simultaneous Extraction of Aspects and Features from Reviews	0	0
+NAACL 	2016	Conversational Markers of Constructive Discussions	0	0
+NAACL 	2016	DAG-Structured Long Short-Term Memory for Semantic Compositionality	0	0
+NAACL 	2016	Deep LSTM based Feature Mapping for Query Classification	0	0
+NAACL 	2015	Unsupervised Morphology Induction Using Word Embeddings	0	1
+NAACL 	2015	Ontologically Grounded Multi-sense Representation Learning for Semantic Vector Space Models	0	0
+NAACL 	2015	Subsentential Sentiment on a Shoestring: A Crosslingual Analysis of Compositional Classification	0	0
+NAACL 	2015	The Unreasonable Effectiveness of Word Representations for Twitter Named Entity Recognition	0	0
+NAACL 	2015	Inferring Temporally-Anchored Spatial Knowledge from Semantic Roles	0	0
+NAACL 	2012	Vine Pruning for Efficient Multi-Pass Dependency Parsing	0	1
+NAACL 	2012	Semantic Textual Similarity for MT evaluation	0	0
+NAACL 	2012	Quality estimation for Machine Translation output using linguistic analysis and decoding features	0	0
+NAACL 	2012	Tree Kernels for Machine Translation Quality Estimation	0	0
+NAACL 	2012	Morpheme- and POS-based IBM1 and language model scores for translation quality estimation	0	0
+ACL	2015	Improving Evaluation of Machine Translation Quality Estimation	0	1
+ACL	2015	A Convolution Kernel Approach to Identifying Comparisons in Text	0	0
+ACL	2015	A Hierarchical Neural Autoencoder for Paragraphs and Documents	0	0
+ACL	2015	Model-based Word Embeddings from Decompositions of Count Matrices	0	0
+ACL	2015	A Unified Multilingual Semantic Representation of Concepts	0	0
+ACL	2015	Learning Dynamic Feature Selection for Fast Sequential Prediction	0	1
+ACL	2015	Adding Semantics to Data-Driven Paraphrasing	0	0
+ACL	2015	Aligning Opinions: Cross-Lingual Opinion Mining with Dependencies	0	0
+ACL	2015	AutoExtend: Extending Word Embeddings to Embeddings for Synsets and Lexemes	0	0
+ACL	2015	Building a Semantic Parser Overnight	0	0
+ACL	2014	Fast and Robust Neural Network Joint Models for Statistical Machine Translation	0	1
+ACL	2014	Representation Learning for Text-level Discourse Parsing	0	0
+ACL	2014	Discovering Latent Structure in Task-Oriented Dialogues	0	0
+ACL	2014	Multilingual Models for Compositional Distributed Semantics	0	0
+ACL	2014	Logical Inference on Dependency-based Compositional Semantics	0	0
